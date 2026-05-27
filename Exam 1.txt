@@ -1,0 +1,1546 @@
+```plaintext
+### Question 1
+What is the primary goal of physical pharmacy foundation principles?
+A) Maximizing the profit margins of commercial pharmacies
+B) Applying theoretical principles to dosage form development
+C) Synthesizing new organic chemical entities from raw elements
+D) Redesigning large-scale chemical manufacturing factories
+Answer: B
+
+### Question 2
+The rational integration of physical pharmacy principles is directly used to make decisions regarding which dosage forms?
+A) Solutions, suspensions, emulsions, and parenterals
+B) Capsules, tablets, caplets, and lozenges
+C) Transdermal patches, implants, and medicated chewing gums
+D) Aerosols, inhalers, and dry powder devices
+Answer: A
+
+### Question 3
+How is a true solution characterized physically?
+A) A heterogeneous dispersion with visible particulate boundaries
+B) A coarse separation of liquid layers showing high interfacial tension
+C) A homogeneous dispersion where the solute is distributed uniformly
+D) A thermodynamically unstable suspension that precipitates rapidly
+Answer: C
+
+### Question 4
+What is the definition of the solubility of a solute?
+A) The total mass of solute that can dissolve in a solvent at its boiling point
+B) The concentration of solute in a saturated solution at a certain temperature
+C) The volume of solvent required to dissolve one mole of solute at absolute zero
+D) The rate at which a solid substance dissolves in an unsaturated vehicle
+Answer: B
+
+### Question 5
+Which state of saturation exists when the solute concentration is strictly less than the solvent's capacity?
+A) Saturated
+B) Supersaturated
+C) Unsaturated
+D) Equilibrium
+Answer: C
+
+### Question 6
+A saturated solution is characterized by an equilibrium between which two processes?
+A) Vaporization and condensation
+B) Precipitation and dissolution
+C) Ionization and complexation
+D) Adsorption and desorption
+Answer: B
+
+### Question 7
+Which statement describes a supersaturated solution?
+A) The solute concentration is equal to the capacity and highly stable
+B) The solute concentration is less than the capacity and moderately stable
+C) The solute concentration is greater than the capacity and thermodynamically unstable
+D) The solute concentration is zero because the solute is completely insoluble
+Answer: C
+
+### Question 8
+What does the concentration expression % w/w (Weight in Weight) represent?
+A) Number of grams of solute in 100 mL of solvent
+B) Number of grams of solute in 100 grams of solution
+C) Number of milliliters of solute in 100 grams of solvent
+D) Number of equivalents of solute in 100 grams of solution
+Answer: B
+
+### Question 9
+How is the quantitative concentration expression % w/v defined?
+A) Number of grams of solute in 100 mL of solution
+B) Number of grams of solute in 100 grams of solvent
+C) Number of milliliters of solute in 100 mL of solution
+D) Number of moles of solute in 100 mL of solvent
+Answer: A
+
+### Question 10
+Which definition matches the percentage concentration expression % v/v?
+A) Number of grams of solute in 100 mL of solution
+B) Number of milliliters of solute in 100 grams of solution
+C) Number of milliliters of solute in 100 mL of solution
+D) Number of milliliters of solute in 100 mL of pure solvent
+Answer: C
+
+### Question 11
+What is the specific unit commonly used for Molecular Weight (MW)?
+A) g/mL
+B) mol/L
+C) g/mol
+D) Eq/L
+Answer: C
+
+### Question 12
+Which chemical quantity serves as a counting unit for atoms, molecules, or ions using Avogadro's number?
+A) Equivalent Weight
+B) Mole
+C) Mole Fraction
+D) Molality
+Answer: B
+
+### Question 13
+How is Molarity (M) defined?
+A) Moles of solute per kilogram of solvent
+B) Moles of solute per liter of solution
+C) Equivalents of solute per liter of solution
+D) Moles of solute per total moles of the system
+Answer: B
+
+### Question 14
+Why is Molarity considered a volume-dependent property?
+A) The mass of the solute changes when the temperature fluctuates
+B) The volume of a liquid solution expands or contracts with temperature shifts
+C) The valence factor of the solute depends on the total solution volume
+D) Avogadro's number varies depending on the container volume used
+Answer: B
+
+### Question 15
+How is Molality (m) defined?
+A) Moles of solute per liter of solution
+B) Moles of solute per kilogram of solvent
+C) Equivalents of solute per kilogram of solution
+D) Moles of solute per kilogram of solution
+Answer: B
+
+### Question 16
+What makes Molality independent of temperature fluctuations?
+A) It is defined strictly by mass-dependent quantities
+B) It relies entirely on the volume of the continuous solution phase
+C) It ignores Avogadro's number during its calculation
+D) It uses a variable valence factor that stabilizes with heat
+Answer: A
+
+### Question 17
+What is the mathematical formula used to calculate Equivalent Weight (EW)?
+A) EW = MW * n
+B) EW = mol / kg
+C) EW = MW / n
+D) EW = M * n
+Answer: C
+
+### Question 18
+What does the variable 'n' represent in the context of calculating Equivalent Weight?
+A) The number of moles of solvent
+B) The valence factor or reactive units provided per mole
+C) The Avogadro constant of the compound
+D) The total number of particles after micellization
+Answer: B
+
+### Question 19
+Which expression defines Normality (N)?
+A) Moles of solute per kilogram of solvent
+B) Ratio of moles of solute to total moles in solution
+C) Equivalents of solute per liter of solution
+D) Grams of solute per 100 mL of solution
+Answer: C
+
+### Question 20
+What is the relationship between Normality (N) and Molarity (M)?
+A) N = M / n
+B) N = M * n
+C) N = M + n
+D) N = M * m
+Answer: B
+
+### Question 21
+What is the mathematical expression for the Mole Fraction of a solute (X)?
+A) Moles of solute / Moles of solvent
+B) Moles of solute / (Moles of solute + Moles of solvent)
+C) Moles of solvent / Moles of solute
+D) (Moles of solute * n) / Liters of solution
+Answer: B
+
+### Question 22
+What is the first sequential step in the methodology to determine equilibrium solubility?
+A) Agitate the mixture at a constantly rising temperature
+B) Filter the solid residue using a high-pressure membrane
+C) Add an excess of the drug to the solvent
+D) Measure the exact density of the pure solvent using a pycnometer
+Answer: C
+
+### Question 23
+During the agitation phase of determining equilibrium solubility, why must the temperature be kept constant?
+A) To prevent the chemical decomposition of the solvent molecules
+B) Because solubility varies with temperature, affecting the equilibrium state
+C) To maintain a low viscosity for rapid gravity filtration
+D) To avoid establishing an equilibrium between precipitation and dissolution
+Answer: B
+
+### Question 24
+What is analyzed in the final step of the determination methodology for equilibrium solubility?
+A) The solid residue remaining on the filter paper
+B) The total volume of the evaporated solvent phase
+C) The concentration of the drug in the filtrate
+D) The dielectric constant of the remaining liquid bulk
+Answer: C
+
+### Question 25
+Pharmacopeial descriptive terms for solubility are defined based on what metric?
+A) Grams of solute required for 100 grams of solvent
+B) Parts of solvent required for 1 part of solute
+C) Moles of solute per total volume of the container
+D) Time required for complete dissolution under fixed stirring
+Answer: B
+
+### Question 26
+If a drug is classified as "Very Soluble" by the pharmacopeia, how many parts of solvent are required for 1 part of solute?
+A) Less than 1 part
+B) 1 to 10 parts
+C) 10 to 30 parts
+D) 30 to 100 parts
+Answer: A
+
+### Question 27
+What range of solvent parts corresponds to the pharmacopeial term "Freely Soluble"?
+A) Less than 1 part
+B) 1 to 10 parts
+C) 10 to 30 parts
+D) 30 to 100 parts
+Answer: B
+
+### Question 28
+How many parts of solvent are required to dissolve 1 part of a "Soluble" compound?
+A) 1 to 10 parts
+B) 10 to 30 parts
+C) 30 to 100 parts
+D) 100 to 1000 parts
+Answer: B
+
+### Question 29
+A substance requiring between 30 and 100 parts of solvent for 1 part of solute is described as:
+A) Soluble
+B) Sparingly Soluble
+C) Slightly Soluble
+D) Very Slightly Soluble
+Answer: B
+
+### Question 30
+What is the solvent requirement range for a "Slightly Soluble" drug?
+A) 10 to 30 parts
+B) 30 to 100 parts
+C) 100 to 1000 parts
+D) 1000 to 10,000 parts
+Answer: C
+
+### Question 31
+Which term is used when 1000 to 10,000 parts of solvent are needed for 1 part of solute?
+A) Sparingly Soluble
+B) Slightly Soluble
+C) Very Slightly Soluble
+D) Practically Insoluble
+Answer: C
+
+### Question 32
+What is the definition of a "Practically Insoluble" substance according to the pharmacopeia?
+A) It requires more than 1000 parts of solvent
+B) It requires more than 10,000 parts of solvent
+C) It cannot dissolve under any temperature or pressure conditions
+D) It precipitates entirely within 10 seconds of mixing
+Answer: B
+
+### Question 33
+Which pharmaceutical preparation relies directly on the principles of gas solubility in liquids?
+A) Hydro-alcoholic solutions of sugars
+B) Effervescent solutions
+C) Concentrated flocculated suspensions
+D) Mineral oil emulsions
+Answer: B
+
+### Question 34
+Which of the following is one of the four primary forces/factors governing gas solubility in liquids?
+A) Surface area of the solid crystal lattice
+B) Salting out
+C) The melting point of the solute gas
+D) The saponification number of the vehicle
+Answer: B
+
+### Question 35
+What law states that the concentration of a dissolved gas is proportional to its partial pressure above the solution?
+A) Fick's First Law
+B) Henry's Law
+C) Newton's Law of Flow
+D) Le Chatelier's Principle
+Answer: B
+
+### Question 36
+In Henry's Law equation, C2 = kp, what does C2 represent?
+A) The boiling point elevation constant
+B) The concentration of dissolved gas
+C) The partial pressure of the gas above the solution
+D) The chemical reactivity coefficient of the solvent
+Answer: B
+
+### Question 37
+What happens to gas solubility in a liquid inside a sealed bottle when the cap is removed?
+A) Solubility increases because atmospheric pressure rises
+B) Solubility drops immediately due to a reduction in partial pressure, causing effervescence
+C) Solubility remains constant because temperature dominates the system
+D) Solubility goes to zero because the constant k drops to a negative value
+Answer: B
+
+### Question 38
+What is the general effect of an increase in temperature on the solubility of gases in liquids?
+A) It increases gas solubility by expanding the liquid volume
+B) It decreases gas solubility due to the greater tendency of the gas to expand
+C) It has no effect unless the system reaches the boiling point
+D) It stabilizes the gas molecules within the liquid lattice structure
+Answer: B
+
+### Question 39
+Why does ethyl nitrite solution present a severe safety risk in hot climates?
+A) It can spontaneously freeze and expand, shattering the glass container
+B) High vapor pressure caused by gas expansion forces can exceed the container's limits
+C) It undergoes quick micellization, forming highly toxic acidic aggregates
+D) It causes rapid salting out of all surrounding water vapor in the atmosphere
+Answer: B
+
+### Question 40
+What is meant by the term "Salting Out" in the context of gas solubility?
+A) Increasing gas solubility by adding volatile organic liquids
+B) Reducing gas solubility through the addition of electrolytes or non-electrolytes
+C) Precipitating solid salts from a solution by bubbling inert gases through it
+D) Neutralizing an acidic gas with a metallic hydroxide solution
+Answer: B
+
+### Question 41
+What is the molecular mechanism behind the "Salting Out" of a gas from an aqueous solution?
+A) Salt ions break the covalent bonds of the dissolved gas molecules
+B) Salt ions attract water molecules strongly, crowding out the gas and dropping its solubility
+C) Salt ions lower the temperature of the solution, causing gas expansion
+D) Salt ions increase the partial pressure of the gas above the liquid surface
+Answer: B
+
+### Question 42
+How does a chemical reaction between a gas and a solvent affect the gas's solubility?
+A) It decreases solubility by converting the gas into an insoluble solid
+B) It enhances solubility, allowing the gas to dissolve in higher concentrations
+C) It renders Henry's Law constant perfectly negative
+D) It forces the system to exhibit an Upper Critical Solution Temperature
+Answer: B
+
+### Question 43
+Which of the following gases dissolves in higher concentrations due to chemical reactivity with water?
+A) Oxygen
+B) Nitrogen
+C) Ammonia
+D) Helium
+Answer: C
+
+### Question 44
+A mixture of alcohol and water forms which type of pharmaceutical liquid preparation?
+A) Aromatic waters
+B) Hydro-alcoholic solutions
+C) Spirits and Elixirs
+D) Flocculated emulsions
+Answer: B
+
+### Question 45
+What type of system is generated when volatile oils are mixed with alcohol?
+A) Hydro-alcoholic solutions
+B) Aromatic waters
+C) Spirits and Elixirs
+D) Two-phase suspensions
+Answer: C
+
+### Question 46
+Which behavior defines complete miscibility in liquid-liquid systems?
+A) The components form two distinct layers that exchange solute molecules
+B) The components mix in all proportions, forming a single, homogenous layer
+C) The components can only mix if the temperature is lowered below the LCST
+D) The components undergo immediate chemical ionization and precipitation
+Answer: B
+
+### Question 47
+What is the physical characteristic of a partial miscibility liquid-liquid system?
+A) It forms a single clear phase at all known pharmaceutical temperatures
+B) It forms two distinct layers, each containing some of the other liquid
+C) It can never be mapped on a binary or ternary phase diagram
+D) It behaves as a perfectly Newtonian fluid with zero shear stress
+Answer: B
+
+### Question 48
+Which pair of liquids serves as a classic pharmaceutical example of partial miscibility?
+A) Water and Alcohol
+B) Water and Phenol
+C) Mineral Oil and Benzene
+D) Acetone and Alcohol
+Answer: B
+
+### Question 49
+When viewing a Critical Solution Temperature (CST) graph, what does the region beneath the binodal curve represent?
+A) A single-phase, homogeneous clear solution
+B) A two-phase region with cloudy, immiscible layers
+C) A state of absolute gas saturation under Henry's Law
+D) A solid crystalline lattice with high melting point
+Answer: B
+
+### Question 50
+How is the Upper Critical Solution Temperature (UCST) defined?
+A) The temperature below which liquids are fully miscible in all proportions
+B) The temperature above which liquids are fully soluble/miscible in all proportions
+C) The temperature at which a liquid completely vaporizes into a gas phase
+D) The temperature where the chemical reaction between two liquids terminates
+Answer: B
+
+### Question 51
+Which liquid system exhibits an Upper Critical Solution Temperature (UCST)?
+A) Triethanolamine and Water
+B) Nicotine and Water
+C) Phenol and Water
+D) Ethyl Ether and Water
+Answer: C
+
+### Question 52
+What characteristic defines a Lower Critical Solution Temperature (LCST) system?
+A) The components are miscible only above this temperature limit
+B) The components are miscible only below this temperature limit
+C) The components form a closed loop on a triangular phase diagram
+D) The components never fully mix at any laboratory temperature
+Answer: B
+
+### Question 53
+Which system is a classic example of a liquid pair showing a Lower Critical Solution Temperature (LCST)?
+A) Phenol and Water
+B) Triethanolamine and Water
+C) Nicotine and Water
+D) Water and Alcohol
+Answer: B
+
+### Question 54
+What type of CST behavior is exhibited by a Nicotine and Water system?
+A) Upper CST only
+B) Lower CST only
+C) Closed CST loop
+D) No CST at all
+Answer: C
+
+### Question 55
+Which liquid pair is known to show no CST behavior because they never fully mix at pharmaceutical temperatures?
+A) Water and Alcohol
+B) Phenol and Water
+C) Ethyl Ether and Water
+D) Nicotine and Water
+Answer: C
+
+### Question 56
+What fundamental principle governs the compatibility and solubility of solids in liquids?
+A) Henry's Law of partial pressures
+B) Fick's Second Law of Flux
+C) Like dissolves like
+D) Newton's Law of proportional flow
+Answer: C
+
+### Question 57
+Which properties characterize a polar solvent system?
+A) Low dielectric constant, London dispersion forces, targets fats and oils
+B) High dielectric constant, dipole-dipole or hydrogen bonding, targets salts and sugars
+C) Zero dielectric constant, weak van der Waals forces, targets resins
+D) Medium dielectric constant, forms zwitterionic micelles at the CMC
+Answer: B
+
+### Question 58
+Which intermolecular forces predominate in a non-polar solvent system?
+A) Hydrogen bonding and ion-dipole forces
+B) Strong permanent dipole-dipole attractions
+C) London dispersion forces (van der Waals)
+D) Acid-base proton transfer reactions
+Answer: C
+
+### Question 59
+What is the primary target solute group for polar solvents like water?
+A) Resins, fats, and fixed oils
+B) Salts, sugars, and ionic compounds
+C) Benzene and carbon tetrachloride
+D) Volatile oils and long aliphatic chains
+Answer: B
+
+### Question 60
+How does a high dielectric constant in a polar solvent promote the dissolution of ionic crystals?
+A) It increases the melting point of the crystalline solid lattice
+B) It reduces the force of attraction between oppositely charged ions in the crystal
+C) It coats the crystal with a hydrophobic hydrocarbon outer shell
+D) It lowers the total volume of the solution via electrostriction
+Answer: B
+
+### Question 61
+Which solvent mechanism is illustrated by the reaction: HCl + H2O -> H3O+ + Cl-?
+A) Dielectric insulation
+B) Acid-base reaction triggering ionization
+C) Fleeting electron induced-dipole movement
+D) Positive adsorption at the liquid surface
+Answer: B
+
+### Question 62
+What molecular structural requirement allows water to dissolve non-ionic organic compounds like alcohols or phenols?
+A) The presence of non-polar aliphatic chains longer than 12 carbons
+B) Electronegative 'handles' like Oxygen or Nitrogen capable of hydrogen bonding
+C) A completely symmetrical architecture with zero dipole moment
+D) The ability to form high-energy amorphous polymorphs
+Answer: B
+
+### Question 63
+Why are non-polar solvents like benzene or mineral oil described as chemically "indifferent"?
+A) They possess an infinitely high dielectric constant
+B) They have low dielectric constants and cannot form hydrogen bonds
+C) They react aggressively with weak electrolytes to form stable salts
+D) They exist only as zwitterions at standard temperature and pressure
+Answer: B
+
+### Question 64
+Which force drives the solubility of hydrophobic substances in non-polar solvents?
+A) Ion-dipole forces
+B) Permanent hydrogen bonding networks
+C) Weak van der Waals-London forces created by fleeting electron movements
+D) High interfacial dielectric insulation
+Answer: C
+
+### Question 65
+What is the primary pharmaceutical role of semi-polar solvents such as ketones and alcohols?
+A) Serving as rigid crystal lattices for solid state drugs
+B) Acting as a "bridge" or intermediary to increase solubility of non-polar molecules in polar vehicles
+C) Maximizing the interfacial tension in multi-phase emulsions
+D) Eliminating the common ion effect in saturated saline solutions
+Answer: B
+
+### Question 66
+When acetone is added to increase the solubility of ether in water, what phenomenon is occurring?
+A) Micellization
+B) Cosolvency
+C) Salting out
+D) Chemical lysis
+Answer: B
+
+### Question 67
+What balances define the overall solubility equation for a solute-solvent system?
+A) The ratio of the boiling point elevation to the freezing point depression
+B) The energy required to break existing bonds versus the energy released by new solute-solvent interactions
+C) The absolute mass of the solvent divided by the volume-dependent molarity
+D) The rate of mechanical shear divided by the yield value threshold
+Answer: B
+
+### Question 68
+How does the introduction of a hydrophilic polar group like -OH affect a solute's water solubility?
+A) It significantly reduces solubility due to steric hindrance
+B) It significantly enhances water solubility compared to the non-polar parent structure
+C) It has no effect unless a strong electrolyte is added to salt it out
+D) It forces the molecule to adopt a crystalline structure with a high melting point
+Answer: B
+
+### Question 69
+What is the general relationship between non-polar aliphatic chain length and water solubility?
+A) As chain length increases, water solubility increases proportionally
+B) As chain length increases, water solubility decreases
+C) Chain length only affects solubility above the boiling point
+D) Water solubility remains perfectly constant regardless of chain extension
+Answer: B
+
+### Question 70
+Why does Tertiary Butyl Alcohol have a higher water solubility than n-Butyl Alcohol?
+A) It possesses a much higher molecular weight
+B) Branching reduces non-polar surface area exposure to the solvent
+C) It undergoes chemical ionization via acid-base proton transfer
+D) It forms a highly stable crystalline lattice with a high yield value
+Answer: B
+
+### Question 71
+What is the pharmaceutical advantage of converting a weak acid drug into its sodium salt?
+A) It lowers the dielectric constant of the surrounding water phase
+B) It forces the molecule to dissociate into ions, drastically increasing interaction with polar solvents
+C) It changes the process from endothermic to completely exothermic
+D) It eliminates the possibility of micellization above the CMC
+Answer: B
+
+### Question 72
+What is the standard rule concerning solid particle size reduction and solubility?
+A) Increased size leads to increased surface area and higher solubility
+B) Decreased size leads to increased surface area and increased solubility
+C) Decreased size reduces the concentration gradient, decreasing solubility
+D) Particle size adjustments have no statistical effect on equilibrium solubility
+Answer: B
+
+### Question 73
+What exception occurs when ultra-fine solid particles are micronized excessively?
+A) Viscosity drops to zero, accelerating the rate of sediment filtration
+B) Electrical charge buildup prevents wetting, resulting in decreased solubility
+C) The particles spontaneously convert into liquid volatile oils
+D) The solution transforms into a Newtonian fluid with an N-value less than 1
+Answer: B
+
+### Question 74
+How do amorphous solids compare to crystalline solids regarding dissolution?
+A) Amorphous solids have stronger intermolecular forces and are harder to dissolve
+B) Amorphous solids have weaker forces and are easier to dissolve
+C) Both possess identical lattice energies and dissolve at identical rates
+D) Amorphous solids always require a semi-polar bridge to dissolve in water
+Answer: B
+
+### Question 75
+What is the correlation between a solid's melting point and its solubility?
+A) High Melting Point = Weak Lattice = High Solubility
+B) High Melting Point = Strong Lattice = Low Solubility
+C) Low Melting Point = Strong Lattice = Low Solubility
+D) Melting point correlates only with gas solubility under Henry's Law
+Answer: B
+
+### Question 76
+If a dissolution process is endothermic, how does temperature affect solubility?
+A) Solubility drops as the temperature rises
+B) Solubility rises as the temperature rises
+C) Solubility remains fixed because heat is released into the bulk
+D) The system undergoes a immediate sol-to-gel transformation
+Answer: B
+
+### Question 77
+What type of thermodynamic process occurs when a solute dissolves and releases heat into the solvent?
+A) Endothermic process
+B) Exothermic process
+C) Isothermal process
+D) Thixotropic process
+Answer: B
+
+### Question 78
+How does a high pH environment affect the state and solubility of a weak acid drug?
+A) It renders the drug unionized and completely precipitated
+B) It renders the drug ionized and converts it into a soluble salt
+C) It decreases the dielectric constant, dropping its solubility
+D) It activates surfactants to form stable laminar micelles
+Answer: B
+
+### Question 79
+A weak base drug like atropine is most soluble under which pH conditions?
+A) High pH, where it exists as an ionized salt
+B) Low pH, where it exists as an ionized soluble salt
+C) Neutral pH, where it undergoes spontaneous chemisorption
+D) An infinitely high pH, where it forms a single-phase hydro-alcoholic fluid
+Answer: B
+
+### Question 80
+According to Le Chatelier's principle, what happens when NaCl is added to a saturated solution of AgCl?
+A) AgCl solubility increases via cosolvency mechanisms
+B) The common ion effect shifts equilibrium to the left, causing AgCl precipitation
+C) The system transforms into a pseudoplastic shear-thinning liquid
+D) The dielectric constant of water increases, breaking the crystal lattice
+Answer: B
+
+### Question 81
+In formulation strategy, how does complex formation bypass original solubility limits?
+A) It increases the thickness of the stagnant liquid film layer
+B) The insoluble solute binds with a complexing agent to form a new, water-soluble molecular species
+C) It salts out all foreign substances from the binary liquid system
+D) It shifts the N-value of the Power Law equation close to zero
+Answer: B
+
+### Question 82
+At what concentration point do surfactants begin aggregating into spherical micelles?
+A) Below the yield value threshold
+B) Above the Critical Micelle Concentration (CMC)
+C) At the exact boiling point elevation temperature
+D) When the mole fraction of the solute equals 1.0
+Answer: B
+
+### Question 83
+How are hydrophobic organic drugs encapsulated during micellization?
+A) They are bound to the hydrophilic heads facing the water bulk
+B) They are encapsulated in the lipophilic inner core of the micelle, "hidden" from water
+C) They are chemically adsorbed onto the outer polyoxyethylene shell via primary covalent bonds
+D) They are forced into a crystalline state within a stagnant liquid film
+Answer: B
+
+### Question 84
+What happens to the mutual solubility of a binary liquid system (A+B) if an added foreign substance is highly soluble in both liquids?
+A) Mutual solubility decreases, resulting in immediate phase separation
+B) Mutual solubility increases, with the substance acting as a blending agent
+C) The binodal curve expands to fill the entire triangular phase diagram
+D) The system transforms into a dilatant fluid that solidifies upon mixing
+Answer: B
+
+### Question 85
+If an added third component is soluble in only one liquid of a binary system, what is the outcome?
+A) Mutual solubility increases across all proportions
+B) Mutual solubility decreases, resulting in phase separation or salting out
+C) The system forms a perfect Newtonian fluid with zero interfacial tension
+D) The critical solution temperature loop closes completely
+Answer: B
+
+### Question 86
+On a triangular phase diagram mapping a ternary system, what does each corner of the triangle represent?
+A) A 33.3% mixture of all three components
+B) 100% of a specific single component
+C) The critical solution temperature of the binary mixture
+D) The point where the interfacial tension equals the surface tension
+Answer: B
+
+### Question 87
+What term specifically describes the boundary between two phases that exist together when one of the phases is a gas?
+A) Interface
+B) Surface
+C) Stagnant film
+D) Micelle core
+Answer: B
+
+### Question 88
+Which phase combination does not possess or form an interface?
+A) Liquid / liquid
+B) Gas / gas
+C) Gas / solid
+D) Solid / solid
+Answer: B
+
+### Question 89
+An emulsion serves as a pharmaceutical example of which type of interface?
+A) Gas / liquid
+B) Liquid / liquid
+C) Liquid / solid
+D) Solid / solid
+Answer: B
+
+### Question 90
+What type of interface is physically represented by a pharmaceutical suspension?
+A) Gas / solid
+B) Liquid / solid
+C) Liquid / liquid
+D) Solid / solid
+Answer: B
+
+### Question 91
+Interfacial phenomena are pharmacologically significant because they directly affect which biological or physical process?
+A) The calibration of single-point Ostwald viscometers
+B) The penetration of molecules through biologic membranes
+C) The calculation of Avogadro's number in true solutions
+D) The conversion of endothermic dissolution reactions to exothermic ones
+Answer: B
+
+### Question 92
+Why do liquid droplets spontaneously adopt a spherical shape?
+A) To maximize the number of moles per unit volume
+B) To achieve the smallest surface area per unit volume due to net inward cohesive pull
+C) Because the adhesive forces with the gas phase are infinitely large
+D) To lower the boiling point elevation constant of the solution
+Answer: B
+
+### Question 93
+How is surface tension mathematically defined?
+A) The force per unit area driving fluid flow through a capillary
+B) The force per unit length that must be applied parallel to the surface to counterbalance the net inward pull
+C) The ratio of moles of solute to the total mass of the solvent layer
+D) The absolute viscosity divided by the density of the liquid medium
+Answer: B
+
+### Question 94
+Why is interfacial tension usually less than surface tension?
+A) Because adhesive forces between two liquids are greater than adhesive forces between a liquid and a gas
+B) Because liquid-gas systems have a higher dielectric constant than liquid-liquid systems
+C) Because the thickness of the stagnant layer drops to zero in an emulsion
+D) Because surfactants cannot undergo positive adsorption at a liquid-liquid interface
+Answer: B
+
+### Question 95
+If two liquids are completely miscible in all proportions, what is the resulting interfacial tension?
+A) It equals the surface tension of the denser liquid
+B) No interfacial tension exists between them
+C) It depends entirely on the saponification number of the mixture
+D) It becomes highly negative, forcing the formation of laminar micelles
+Answer: B
+
+### Question 96
+A wire frame with a movable bar of length 5 cm holds a soap film. If a mass providing a downward force of 490 dynes is required to break the film, what is the calculated surface tension?
+A) 98 dynes/cm
+B) 49 dynes/cm
+C) 24.5 dynes/cm
+D) 10 dynes/cm
+Answer: B
+
+### Question 97
+Which method is widely used to measure surface and interfacial tension?
+A) Modified Noyes-Whitney equation profiling
+B) DuNouy tensiometer method
+C) Ostwald viscometer gravity timing
+D) Triangular graph mapping
+Answer: B
+
+### Question 98
+What general effect does a temperature increase have on the surface tension of most liquids?
+A) It increases surface tension linearly by decreasing kinetic energy
+B) It decreases surface tension linearly due to increased kinetic energy
+C) It has no measurable effect unless an electrolyte is added
+D) It causes an instantaneous shift from positive to negative adsorption
+Answer: B
+
+### Question 99
+What occurs during positive adsorption at a liquid interface?
+A) Inorganic electrolytes concentrate in the bulk, raising the surface free energy
+B) Certain molecules/ions move to the interface and concentrate there, lowering surface tension
+C) Surfactant molecules dissolve entirely in the oil phase, leaving the interface clear
+D) The contact angle between the liquid and the solid climbs to 180 degrees
+Answer: B
+
+### Question 100
+How do inorganic electrolytes behave regarding adsorption at liquid interfaces?
+A) They exhibit positive adsorption and lower surface free energy
+B) They exhibit negative adsorption and partition in favor of the bulk solution
+C) They form large zwitterionic micelles at extremely low concentrations
+D) They act as cosolvents to bridge the gap between volatile oils and water
+Answer: B
+
+### Question 101
+What defines the structure of an amphiphilic molecule?
+A) It consists entirely of non-polar aromatic benzene rings
+B) It possesses both a hydrophilic head and a lipophilic tail
+C) It contains only inorganic metal cations like sodium or potassium
+D) It is an amorphous solid with an exceptionally high melting point
+Answer: B
+
+### Question 102
+If a surfactant molecule is excessively hydrophilic, such as glycerine, where does it primarily remain?
+A) At the exact liquid/gas interface plane
+B) In the aqueous bulk solution
+C) Inside the core of a lipophilic emulsion droplet
+D) Adsorbed onto the glass wall of the container
+Answer: B
+
+### Question 103
+What is the primary formulation use for surfactants with a low HLB value (1.8 to 8.6)?
+A) Solubilizing agents in clear aqueous syrups
+B) W/O (Water in Oil) emulsions
+C) O/W (Oil in Water) emulsions
+D) Wetting agents with a zero contact angle
+Answer: B
+
+### Question 104
+Surfactants with a high HLB value (9.6 to 16.7) are categorized as:
+A) Highly lipophilic agents used for non-polar solvent mixtures
+B) Hydrophilic agents used for O/W (Oil in Water) emulsions
+C) Chemically indifferent molecules that prevent micellization
+D) Antifoaming agents that destroy air pockets in mixers
+Answer: B
+
+### Question 105
+Which formula is used to calculate the HLB value of non-ionic polysorbates containing both an oxyethylene chain and polyhydric alcohol groups?
+A) HLB = E / 5
+B) HLB = (E + P) / 5
+C) HLB = 20 * (1 - S/A)
+D) HLB = M * n
+Answer: B
+
+### Question 106
+What is the calculated HLB value of a ester-linked surfactant if its saponification number (S) is 45.5 and the fatty acid's acid number (A) is 276?
+A) 4.3
+B) 16.7
+C) 12.1
+D) 72.9
+Answer: B
+
+### Question 107
+How is the HLB of a blended mixture of surfactant A and surfactant B calculated?
+A) It is the geometric product of the two individual HLB values
+B) It is the algebraic mean based on the weight fraction of each component
+C) It always equals the HLB of the more hydrophilic surfactant used
+D) It is determined by subtracting the acid number from the saponification number
+Answer: B
+
+### Question 108
+An oil phase consists of 94.6% liquid paraffin (Required HLB = 12), 2.7% wool fat (Required HLB = 10), and 2.7% cetyl alcohol (Required HLB = 15). What is the total required HLB for this emulsifier system?
+A) 10.0
+B) 12.1
+C) 15.0
+D) 4.3
+Answer: B
+
+### Question 109
+Which structural group characterizes anionic surfactants?
+A) Quaternary ammonium rings bearing a positive charge
+B) Hydrocarbon chains where the active surface portion is contained in the anion
+C) Long-chain polyoxyethylene linkages that do not ionize in water
+D) Zwitterionic chains that function exclusively as a code for pH shifts
+Answer: B
+
+### Question 110
+What are the oldest surface-active agents, chemically described as metal salts of long-chain fatty acids?
+A) Macrogol ethers
+B) Soaps
+C) Polysorbates
+D) Sorbitan esters
+Answer: B
+
+### Question 111
+Sodium lauryl sulfate (Sodium dodecyl sulfate) belongs to which chemical class of surfactants?
+A) Cationic quaternary ammonium compounds
+B) Organic sulfates (Alkyl sulfates)
+C) Non-ionic ester-linked Spans
+D) Amphoteric zwitterions
+Answer: B
+
+### Question 112
+What is the primary pharmaceutical property and common use for cationic surfactants like benzalkonium chloride?
+A) High-speed detergent action in automated washing equipment
+B) Marked bactericidal activity, making them useful as preservatives
+C) Serving as hydrophobic emulsifiers for W/O emulsions
+D) Functioning as excellent antifoaming agents during syrup boiling
+Answer: B
+
+### Question 113
+Which statement is true regarding non-ionic surfactants?
+A) They ionize aggressively in water, bearing a negative charge
+B) They do not ionize in solution and are compatible with both anionic and cationic additives
+C) They are highly incompatible with polar molecules like sugars
+D) They function as active agents only below the freezing point of water
+Answer: B
+
+### Question 114
+Brij is a pharmaceutical example of which surfactant sub-class?
+A) Ester-linked sorbitan fatty acid esters
+B) Ether-linked surface-active agents (Macrogol ethers)
+C) Cationic quaternary ammonium salts
+D) Anionic alkyl benzene sulfonates
+Answer: B
+
+### Question 115
+Sorbitan fatty acid esters produced by esterification of sorbitan with fatty acids are commercially known as:
+A) Tweens
+B) Spans
+=C) Brijs
+D) Aerosols
+Answer: B
+
+### Question 116
+Polysorbates (Tweens) are produced by reacting the free hydroxyl groups of Spans with which compound?
+A) Sodium dodecyl benzene sulfonate
+B) Ethylene oxide
+C) Triethanolamine oleate
+D) Carbon tetrachloride
+Answer: B
+
+### Question 117
+How does the performance of an amphoteric surfactant change in solution?
+A) It is completely independent of the surrounding temperature
+B) It is pH-dependent; it can function as either an anionic or a cationic agent
+C) It remains non-ionic regardless of acid or base additions
+D) It precipitates immediately if the concentration gradient drops below 1.0
+Answer: B
+
+### Question 118
+What is the approximate submicroscopic diameter range of standard spherical micelles?
+A) 1 to 5 A°
+B) 30 to 80 A°
+C) 100 to 500 A°
+D) 1 to 10 microns
+Answer: B
+
+### Question 119
+What type of micelles form when surfactants reach exceptionally high concentrations in a liquid bulk?
+A) Spherical zwitterionic micelles
+B) Laminar micelles (uni-lamellar or multi-lamellar)
+C) Fleet electron induced-dipole aggregates
+D) Close-packed dilatant crystalline networks
+Answer: B
+
+### Question 120
+Where are non-polar solubilizates located when incorporated into a surfactant micelle?
+A) Adsorbed onto the hydrophilic outer heads
+B) Inside the lipophilic core of the micelle
+C) In the polyoxyethylene shell layers
+D) Dissolved in the external stagnant liquid film
+Answer: B
+
+### Question 121
+What is the primary function of a wetting agent in pharmaceutical processing?
+A) Increasing the contact angle between a liquid and a solid above 90 degrees
+B) Lowering the contact angle between a liquid and a solid, approaching zero degrees
+C) Preventing the chemical ionization of weak electrolyte crystals
+D) Raising the interfacial tension to accelerate droplet coalescence
+Answer: B
+
+### Question 122
+According to the empirical rules of emulsification, which phase becomes the continuous phase of an emulsion?
+A) The phase in which the surfactant is least soluble
+B) The phase in which the surfactant is most soluble
+C) The phase with the highest absolute boiling point
+D) The phase that contains the highest concentration of common ions
+Answer: B
+
+### Question 123
+How do detergents physically remove dirt from a solid surface?
+A) By increasing the lattice energy of the dirt particles until they shatter
+B) Via initial wetting, deflocculation, and subsequent emulsification or solubilization
+C) By shifting the system's flow profile from pseudoplastic to perfectly Newtonian
+D) Through chemical chemisorption involving irreversible covalent primary bonds
+Answer: B
+
+### Question 124
+Which characteristic distinguishes chemical adsorption (chemisorption) from physical adsorption?
+A) It is highly reversible via minor temperature increases
+B) It occurs via the formation of chemical bonds and is generally irreversible
+C) The heat of adsorption is strictly less than 10 Kcal/mol
+D) It forms multi-layer structures beyond the boiling point of the adsorbate
+Answer: B
+
+### Question 125
+What is the typical heat of adsorption observed in physical adsorption processes?
+A) Greater than 20 Kcal/mol
+B) Less than 10 Kcal/mol
+C) Exactly zero because no energy exchange occurs
+D) Variable depending on the valence factor n of the solute
+Answer: B
+
+### Question 126
+How does temperature generally affect the rate of physical adsorption?
+A) It proceeds more rapidly at higher temperatures because kinetic energy rises
+B) It proceeds more rapidly at lower temperatures because the process is exothermic
+C) Temperature has no mathematical influence on adsorption capacity
+D) It stops completely if the temperature falls below the Upper CST limit
+Answer: B
+
+### Question 127
+Why is oral activated charcoal clinically useful as a medical adsorbent?
+A) It alters the pH of the gastrointestinal tract fluids to cause drug lysis
+B) It has a large surface area that adsorbs toxins like atropine or strychnine, acting as an antidote
+C) It serves as a semi-polar bridge to increase drug permeability across membranes
+D) It acts as a surfactant to decrease the contact angle of mucosal tissue
+Answer: B
+
+### Question 128
+The Partition Coefficient (P) mathematically defines the distribution ratio of an excess solute between which phases?
+A) A gas phase and a liquid phase at constant partial pressure
+B) Two immiscible liquid phases at equilibrium
+=C) A crystalline solid phase and an amorphous solid phase
+D) The stagnant liquid layer and the well-stirred bulk solution
+Answer: B
+
+### Question 129
+What is the biological significance of the Partition Coefficient in predicting drug transport?
+A) It measures the absolute viscosity of the cell membrane fluids
+B) It predicts the drug's ability to navigate the aqueous GIT fluids and lipid GIT membranes
+C) It determines the exact saponification number of biological fats
+D) It defines the rate of mechanical shear needed to penetrate tissue layers
+Answer: B
+
+### Question 130
+What law governs the spontaneous transport of a component from high concentration to low concentration?
+A) Henry's Law
+B) Fick's First Law of Diffusion
+C) Noyes-Whitney Equation
+D) Newton's Law of Flow
+Answer: B
+
+### Question 131
+In Fick's First Law equation, J = D*(C1 - C2)/h, what does the variable 'h' represent?
+A) The absolute viscosity of the fluid channel
+B) The membrane or barrier thickness
+C) The surface area of the migrating drug particles
+D) The total time elapsed during diffusion equilibrium
+Answer: B
+
+### Question 132
+According to the rules of diffusive flux, flux is:
+A) Directly proportional to membrane thickness
+B) Inversely proportional to the concentration gradient
+C) Inversely proportional to the distance traveled
+D) Independent of the diffusion coefficient D
+Answer: B
+
+### Question 133
+What name is given to the micro-environment consisting of a stagnant liquid film surrounding a dissolving solid particle?
+A) Binodal curve layer
+B) Diffusion layer
+C) Micellar shell
+D) Yield barrier
+Answer: B
+
+### Question 134
+Which equation mathematically governs the dissolution rate of solid mass into a liquid solution?
+A) The Power Law Equation
+B) The Modified Noyes-Whitney Equation
+C) Henry's Law of gas distribution
+D) The algebraic mean HLB equation
+Answer: B
+
+### Question 135
+In the dissolution expression dM/dt = KS(Cs - C), what does Cs represent?
+A) The concentration of the drug in the well-stirred bulk solution
+B) The solubility limit of the solute in the stagnant layer micro-environment
+C) The surface area available for mass transfer optimization
+D) The absolute kinematic viscosity of the vehicle
+Answer: B
+
+### Question 136
+To optimize and accelerate the dissolution rate of a drug, a formulator should attempt to:
+A) Increase the stagnant layer thickness (h)
+B) Decrease the concentration gradient (Cs - C)
+C) Increase the surface area of the solute (S) via particle size reduction
+D) Increase the bulk solution viscosity
+Answer: B
+
+### Question 137
+What are the conditions called when a formulator maintains a very low bulk concentration (C) to maximize dissolution?
+A) Isotonic conditions
+B) Sink conditions
+C) Flocculated conditions
+D) Thixotropic conditions
+Answer: B
+
+### Question 138
+A colligative property of a solution depends strictly on which factor?
+A) The chemical identity and structural architecture of the solute molecules
+B) The number of solute particles (concentration) in the solution
+C) The dielectric constant and polarity of the pure solvent vehicle
+D) The rate of mechanical shear applied during solution preparation
+Answer: B
+
+### Question 139
+Why does a solution containing a non-volatile solute exhibit vapor pressure depression compared to a pure solvent?
+A) The solute particles chemically destroy the solvent molecules
+B) Solute particles physically block solvent escape routes and hold them down via attraction forces
+C) The solute lowers the boiling point, preventing phase transition
+D) The solution automatically forms a closed CST loop that traps gases
+Answer: B
+
+### Question 140
+How is the boiling point of a liquid defined physically?
+A) The temperature where the chemical reaction with the container begins
+B) The exact temperature at which the vapor pressure equals atmospheric pressure
+C) The thermal threshold where the N-value of the fluid equals 1.0
+D) The point where the concentration exceeds the saturation capacity
+Answer: B
+
+### Question 141
+Why must an "energy tax" in the form of extra heat be added to boil a solution containing a solute?
+A) To lower the melting point of the solute particles
+B) Because vapor pressure is artificially lowered, requiring more heat to raise it to atmospheric levels
+C) To force the surfactants to break down their micellar cores
+D) To overcome the plastic yield value of the continuous phase
+Answer: B
+
+### Question 142
+Which compound yields the greatest freezing point depression when dissolved at equal molar concentrations, due to producing the highest number of particles?
+A) NaCl
+B) CaCl2
+C) AlCl3
+D) Glucose
+Answer: C
+
+### Question 143
+What is the clinical definition of an isotonic manufactured fluid?
+A) It possesses a lower osmotic pressure than body fluids, causing cellular lysis
+B) It possesses the exact same osmotic pressure as body fluids to prevent cellular damage
+C) It has a high salt concentration that forces cells to shrink and shrivel
+D) It contains a high concentration of non-ionic Spans to preserve cell walls
+Answer: B
+
+### Question 144
+What is the biological fate of a red blood cell placed into a hypotonic solution?
+A) It rapidly shrinks and shrivels due to water moving out
+B) Water moves into the cell, causing it to swell and burst (lysis)
+C) It remains perfectly normal in size and shape
+D) It converts into a thixotropic gel matrix
+Answer: B
+
+### Question 145
+Which concentration metric is defined as the number of osmoles of solute per kilogram of solvent?
+A) Molarity
+B) Osmolarity
+C) Molality
+D) Osmolality
+Answer: D
+
+### Question 146
+What is the definition of Rheology?
+A) The study of radioactive drug decomposition rates
+B) The science of flow and the deformation of matter
+C) The calculation of partition coefficients in lipid bilayers
+D) The measurement of critical solution temperatures in binary liquids
+Answer: B
+
+### Question 147
+How is the absolute viscosity of a fluid defined?
+A) The velocity difference between two moving gas phases
+B) The expression of a fluid's resistance to flow
+C) The total surface free energy per unit length of contact
+D) The ratio of the equivalents of solute to the volume of solution
+Answer: B
+
+### Question 148
+What are the measurement units for absolute viscosity?
+A) Stoke and Centistoke
+B) Poise and Centipoise
+C) Dyne/cm and mN/m
+D) Grams per mole
+Answer: B
+
+### Question 149
+Kinematic viscosity is mathematically defined as absolute viscosity divided by which variable?
+A) The partial pressure of the gas phase
+B) The density of the liquid
+C) The thickness of the stagnant film
+D) The surface area of the shear plane
+Answer: B
+
+### Question 150
+What flow characteristic distinguishes a Newtonian fluid under shear stress?
+A) Viscosity drops immediately as the rate of shear increases
+B) Viscosity remains perfectly constant regardless of the applied shear stress
+C) The fluid requires a specific yield value barrier to be shattered before flow begins
+D) The system expands in volume and solidifies into a firm paste
+Answer: B
+
+### Question 151
+A plot of Rate of Shear versus Shearing Stress for a Newtonian fluid yields a line with what property?
+A) A parabolic curve that flattens at high shear stress
+B) A straight line passing directly through the origin
+C) A horizontal line that shifts downward over time
+D) A closed hysteresis loop with an upper yield point
+Answer: B
+
+### Question 152
+What diagnostic flow behavior is indicated if the N-value of the Power Law equation is strictly greater than 1?
+A) Newtonian baseline behavior
+B) Pseudoplastic flow (Shear-Thinning)
+C) Dilatant flow (Shear-Thickening)
+D) Plastic flow with a yield barrier
+Answer: B
+
+### Question 153
+Which flow profile is characterized by a material acting as a solid until a specific mechanical stress threshold, the yield value, is crossed?
+A) Newtonian flow
+B) Plastic flow (Bingham bodies)
+C) Pseudoplastic flow
+D) Dilatant flow
+Answer: B
+
+### Question 154
+What molecular mechanism explains the behavior of a plastic fluid below its yield value?
+A) Polymer chains are completely aligned and sliding past one another
+B) Van der Waals contacts between adjacent flocculated particles form a rigid network that resists flow
+C) Volatile oils are undergoing spontaneous micellization into laminar sheets
+D) Solute molecules are diffusing rapidly across a concentration gradient
+Answer: B
+
+### Question 155
+What happens to the viscosity of a pseudoplastic fluid as the rate of shear is increased?
+A) It increases dramatically, overloading mixing equipment
+B) It decreases, causing the fluid to flow faster the harder it is pushed
+C) It remains fixed because N is always equal to 1.0
+D) It fluctuates based on the common ion effect
+Answer: B
+
+### Question 156
+Which molecular adjustment occurs inside a pseudoplastic polymer solution during mechanical shearing?
+A) Crystalline lattices form, trapping water molecules in large voids
+B) Entangled polymer molecules uncoil, align with the flow, and release entrapped solvent
+C) Covalent primary bonds are broken, leading to irreversible chemical adsorption
+D) Salt ions form tight ion-dipole pairs that resist fluid movement
+Answer: B
+
+### Question 157
+Which of the following is an example of a material exhibiting pseudoplastic flow behavior?
+A) Saturated sodium chloride solution
+B) Methyl cellulose or sodium CMC in polymer solution
+C) A highly concentrated suspension containing 60% solid particles
+D) Pure mineral oil at room temperature
+Answer: B
+
+### Question 158
+What behavior defines a dilatant system under shear?
+A) Viscosity decreases as polymer chains align with the container wall
+B) Viscosity increases with increasing rate of shear, and the system expands in volume
+C) The material flows immediately with a constant fluidity passing through the origin
+D) It exhibits a slow, time-dependent recovery of its original gel consistency
+Answer: B
+
+### Question 159
+What physical transition occurs at the particle level during the shear-thickening of a dilatant suspension?
+A) Particles move from close-packed to an open-packed state, causing the vehicle to become insufficient to fill the new voids
+B) Particles form a single homogeneous layer that undergoes positive adsorption
+C) Polymer chains uncoil completely and wrap around water molecules
+D) The dielectric constant drops to zero, forcing instant crystallization
+Answer: B
+
+### Question 160
+Why should dilatant pharmaceutical materials never be processed in high-speed mixers or mills?
+A) They will undergo immediate chemical lysis and release toxic ammonia gas
+B) Rapid solidification under high shear will instantly overload and destroy the equipment
+C) The viscosity will drop to zero, causing the material to leak from the bearings
+D) They will salt out the container components, creating trace metallic impurities
+Answer: B
+
+### Question 161
+Why are single-point viscometer determinations completely useless for evaluating non-Newtonian pharmaceutical fluids?
+A) Because their densities change across a mass-dependent spectrum
+B) Because their physical properties and viscosity morph across different shear rates
+C) Because they lack an absolute critical solution temperature loop
+D) Because they do not follow Fick's First Law of diffusive flux
+Answer: B
+
+### Question 162
+Which viscometer is a single-point instrument suitable only for testing Newtonian liquids?
+A) Cup and Bob viscometer
+B) Ostwald capillary viscometer
+C) Cone and Plate advanced viscometer
+D) Rotational torque tensiometer
+Answer: B
+
+### Question 163
+What is measured to determine fluid viscosity when using a Hoeppler falling-sphere viscometer?
+A) The torque required to rotate a bob inside a sample cup
+B) The exact time it takes for a ball of known density to roll down an inverted tube
+C) The volume expansion of the system beneath the binodal curve
+D) The force per unit length needed to counterbalance an inward pull
+Answer: B
+
+### Question 164
+Which instrument is a multi-point rotational viscometer designed to handle complex non-Newtonian bulk suspensions?
+A) Ostwald viscometer
+B) Cup and Bob viscometer
+C) Hoeppler viscometer
+D) DuNouy tensiometer
+Answer: B
+
+### Question 165
+What is a key structural advantage of using a Cone and Plate viscometer for advanced pharmaceutical testing?
+A) It operates entirely by gravity flow timing without external power
+B) It maintains a constant shear rate throughout the gap and requires extreme micro-volumes of sample
+C) It relies on the common ion effect to stabilize fluid layers
+D) It eliminates the need for strict temperature jacketing during operation
+Answer: B
+
+### Question 166
+What sample volume is typically sufficient for analysis on an advanced Cone and Plate viscometer?
+A) 20 to 50 mL
+B) 0.1 to 0.2 mL
+C) 500 mL
+D) Exactly 1 Liter
+Answer: B
+
+### Question 167
+How is Thixotropy defined in rheological terms?
+A) An immediate increase in viscosity upon standing at a high temperature
+B) An isothermal, slow recovery on standing of a material consistency lost through shearing
+C) A permanent loss of structural integrity due to irreversible chemisorption
+D) The linear decrease of surface tension observed when temperature climbs
+Answer: B
+
+### Question 168
+What structural transformation occurs at the particle level during the thixotropic shearing process?
+A) Sol converts immediately into a crystalline solid network
+B) A loose 3D gel network is fractured by shear into a flowable sol, which slowly rebuilds on standing
+C) Micelles invert their inner cores, locking particles into an open-packed paste
+D) Ions combine via acid-base interactions to alter the yield barrier
+Answer: B
+
+### Question 169
+Which pharmaceutical preparation serves as a real-world example of thixotropic formulation design for prolonged drug depot release?
+A) Effervescent sodium bicarbonate solution
+B) Procaine Penicillin G depot suspension
+C) Hydro-alcoholic elixir of methyl cellulose
+D) Dilatant starch suspension
+Answer: B
+
+### Question 170
+Which behavior defines a rheopexy system?
+A) An immediate breakdown of polymer chain alignment upon standing
+B) An increased resistance with time where a sol transforms into an equilibrium gel form upon gentle shearing
+C) A fluid that obeys Newton's law of flow passing directly through the origin
+D) A process where negative adsorption forces all electrolytes into the bulk
+Answer: B
+
+### Question 171
+In the study of solid dosage forms, rheology dictates success by directly influencing:
+A) The chemical ionization of crystalline weak electrolytes
+B) The flow of powders from hoppers into tablet die cavities during manufacturing
+C) The positive adsorption of surfactants onto micellar polyoxyethylene shells
+D) The osmotic pressure elevation of cell membranes
+Answer: B
+
+### Question 172
+Applying physical pharmacy foundations allows a formulator to rationally avoid which physical instability problem?
+A) Complete miscibility of alcohol and water layers
+B) Phase separation, cloudy layers, or rapid sedimentation in suspensions and emulsions
+C) Linear decreases in absolute viscosity when testing Newtonian standards
+D) Diffusion flux driven by concentration gradients
+Answer: B
+
+### Question 173
+Solubility is defined as the concentration of solute in a saturated solution at a specific temperature.
+A) True
+B) False
+Answer: A
+
+### Question 174
+An unsaturated solution contains solute at a concentration that matches the solvent's maximum capacity.
+A) True
+B) False
+Answer: B
+
+### Question 175
+The quantitative expression % w/v represents the number of grams of solute in 100 grams of solution.
+A) True
+B) False
+Answer: B
+
+### Question 176
+Molarity is defined as the number of moles of solute per kilogram of solvent.
+A) True
+B) False
+Answer: B
+
+### Question 177
+Molality is a mass-dependent property that remains independent of temperature fluctuations.
+A) True
+B) False
+Answer: A
+
+### Question 178
+Normality can be calculated by multiplying the Molarity of a solution by its valence factor (n).
+A) True
+B) False
+Answer: A
+
+### Question 179
+A "Slightly Soluble" drug requires between 10 and 30 parts of solvent to dissolve 1 part of solute.
+A) True
+B) False
+Answer: B
+
+### Question 180
+Henry's Law states that decreasing the partial pressure of a gas above a liquid will increase its solubility.
+A) True
+B) False
+Answer: B
+
+### Question 181
+Increasing the temperature of a liquid vehicle generally decreases the solubility of gases dissolved within it.
+A) True
+B) False
+Answer: A
+
+### Question 182
+Salting out involves increasing gas solubility by adding highly reactive electrolytes to the solvent.
+A) True
+B) False
+Answer: B
+
+### Question 183
+A hydro-alcoholic solution is formed by mixing volatile oils with water.
+A) True
+B) False
+Answer: B
+
+### Question 184
+An Upper Critical Solution Temperature (UCST) system forms a single clear phase only below its temperature limit.
+A) True
+B) False
+Answer: B
+
+### Question 185
+Polar solvents like water dissolve salts and sugars primarily via mechanisms like high dielectric insulation and hydrogen bonding.
+A) True
+B) False
+Answer: A
+
+### Question 186
+Non-polar solvents have low dielectric constants and dissolve fats or oils via weak van der Waals-London forces.
+A) True
+B) False
+Answer: A
+
+### Question 187
+Increasing the aliphatic chain length of a non-polar organic molecule increases its water solubility.
+A) True
+B) False
+Answer: B
+
+### Question 188
+Amorphous solids possess high lattice energies and are harder to dissolve than crystalline solids.
+A) True
+B) False
+Answer: B
+
+### Question 189
+A weak acid drug becomes more soluble in an aqueous environment when the pH is lowered into the highly acidic range.
+A) True
+B) False
+Answer: B
+
+### Question 190
+The common ion effect causes a shift in chemical equilibrium that promotes the precipitation of sparingly soluble salts.
+A) True
+B) False
+Answer: A
+
+### Question 191
+When mapping a ternary system on a triangular graph, each corner of the triangle represents a 50/50 mix of two components.
+A) True
+B) False
+Answer: B
+
+### Question 192
+An interface is specifically termed a "surface" when one of the coexisting phases is a gas.
+A) True
+B) False
+Answer: A
+
+### Question 193
+Interfacial tension is usually greater than surface tension because liquid-liquid adhesive forces are extremely weak compared to liquid-gas forces.
+A) True
+B) False
+Answer: B
+
+### Question 194
+Surfactants with a low HLB value (1.8 to 8.6) are hydrophilic and are preferred for making O/W emulsions.
+A) True
+B) False
+Answer: B
+
+### Question 195
+Anionic surfactants ionize in water to produce a surface-active portion located within the cation.
+A) True
+B) False
+Answer: B
+
+### Question 196
+Chemical adsorption (chemisorption) involves primary chemical bonds, is highly irreversible, and forms a maximum of a monolayer.
+A) True
+B) False
+Answer: A
+
+### Question 197
+Fick's First Law states that diffusive flux is directly proportional to the thickness of the membrane barrier.
+A) True
+B) False
+Answer: B
+
+### Question 198
+Colligative properties depend entirely on the total number of solute particles in solution, ignoring their specific chemical identity.
+A) True
+B) False
+Answer: A
+
+### Question 199
+A Newtonian fluid exhibits a variable viscosity that changes unpredictably depending on the rate of shear applied.
+A) True
+B) False
+Answer: B
+
+### Question 200
+Thixotropy describes a slow, time-dependent structural recovery of consistency when a material is left standing after shear disruption.
+A) True
+B) False
+Answer: A
+
+```
