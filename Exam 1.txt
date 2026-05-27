@@ -1352,12 +1352,12 @@ D) The osmotic pressure elevation of cell membranes
 Answer: B
 
 ### Question 170
-Applying physical pharmacy foundations allows a formulator to rationally avoid which physical instability problem?
-A) Complete miscibility of alcohol and water layers
-B) Phase separation, cloudy layers, or rapid sedimentation in suspensions and emulsions
-C) Linear decreases in absolute viscosity when testing Newtonian standards
-D) Diffusion flux driven by concentration gradients
-Answer: B
+Why is strict temperature control a safety imperative when storing ethyl nitrite solutions in hot climates?
+A) Heat causes immediate irreversible precipitation of the active ingredient
+B) Heat increases the dielectric constant, chemically degrading the solvent
+C) The expansion force of the gas due to high vapor pressure can exceed the container's limits
+D) The solution rapidly transforms into a shear-thickening dilatant paste
+Answer: C
 
 ### Question 171
 Solubility is defined as the concentration of solute in a saturated solution at a specific temperature.
