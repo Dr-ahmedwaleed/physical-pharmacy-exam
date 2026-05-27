@@ -93,7 +93,7 @@ st.markdown("""
         min-width: 50% !important;
     }
     
-    /* STICKY TOOLBELT & HIDE STREAMLIT/GITHUB UI */
+    /* STICKY TOOLBELT & HIDE STREAMLIT/GITHUB UI COMPLETELY */
     header[data-testid="stHeader"] {
         background-color: transparent !important;
     }
@@ -105,6 +105,11 @@ st.markdown("""
     }
     footer {
         display: none !important; 
+    }
+    
+    /* THE AVATAR KILLER: Hides the floating creator profile badge */
+    [data-testid="stAppCreatorProfile"], [data-testid="creatorBadge"] {
+        display: none !important;
     }
     
     .block-container {
@@ -239,7 +244,7 @@ if 'current_file' not in st.session_state or st.session_state.current_file != se
     st.session_state.exam_data = raw_data
     st.session_state.user_answers = {} 
     st.session_state.current_index = 0
-    st.session_state.exam_finished = False # Reset finished state for new exam
+    st.session_state.exam_finished = False 
     components.html("<script>sessionStorage.removeItem('examTimer'); sessionStorage.removeItem('examPaused');</script>", height=0)
 
 # Initialize finished state if not present
@@ -254,7 +259,7 @@ if not st.session_state.exam_data:
     st.warning("No questions loaded. Please check your text formatting.")
 elif st.session_state.exam_finished:
     # --- 8. THE RESULTS DASHBOARD ---
-    st.container() # Dummy container to safely absorb the "sticky" CSS rule
+    st.container() 
     
     correct_count = sum(1 for idx, ans in st.session_state.user_answers.items() if ans.startswith(st.session_state.exam_data[idx]['answer']))
     incorrect_count = len(st.session_state.user_answers) - correct_count
@@ -262,7 +267,7 @@ elif st.session_state.exam_finished:
     unanswered_count = total_q - (correct_count + incorrect_count)
     percentage = (correct_count / total_q) * 100 if total_q > 0 else 0
     
-    color = "#28a745" if percentage >= 60 else "#dc3545" # Green if passed, red if failed
+    color = "#28a745" if percentage >= 60 else "#dc3545" 
     
     st.markdown(f"""
     <div style='text-align: center; padding: 30px 20px; background-color: #1e1e1e; border-radius: 12px; border: 1px solid #333; margin-top: 20px; margin-bottom: 30px;'>
@@ -300,7 +305,7 @@ else:
         """, unsafe_allow_html=True)
         render_timer()
         
-    # === THE SLIDER (Moved outside the toolbelt so it scrolls away!) ===
+    # === THE SLIDER ===
     current_q_num = st.session_state.current_index + 1
     new_q_num = st.slider("Navigate Questions", min_value=1, max_value=len(st.session_state.exam_data), value=current_q_num, label_visibility="collapsed")
     
@@ -372,6 +377,5 @@ else:
                 st.session_state.current_index += 1
                 st.rerun()
             else:
-                # Trigger the Results Dashboard instead of wiping the app
                 st.session_state.exam_finished = True
                 st.rerun()
