@@ -1,22 +1,14 @@
 ```plaintext
-### Question 1
-What is the primary goal of physical pharmacy foundation principles?
-A) Maximizing the profit margins of commercial pharmacies
-B) Applying theoretical principles to dosage form development
-C) Synthesizing new organic chemical entities from raw elements
-D) Redesigning large-scale chemical manufacturing factories
-Answer: B
-
 ### Question 2
-The rational integration of physical pharmacy principles is directly used to make decisions regarding which dosage forms?
-A) Solutions, suspensions, emulsions, and parenterals
-B) Capsules, tablets, caplets, and lozenges
-C) Transdermal patches, implants, and medicated chewing gums
-D) Aerosols, inhalers, and dry powder devices
-Answer: A
+What is the HLB value for O/W emulsifying agents?
+A) 3 - 8
+B) 13 - 16
+C) 8 - 16
+D) 1 - 3
+Answer: C
 
 ### Question 3
-What is the most accurate definition of a "true solution" in physical pharmacy?
+What defines a "true solution"?
 A) A saturated mixture where solute is not fully dissolved
 B) A colloidal suspension of insoluble particles
 C) A mixture of solute and solvent that separates over time
@@ -40,11 +32,11 @@ D) Equilibrium
 Answer: C
 
 ### Question 6
-A saturated solution is characterized by an equilibrium between which two processes?
-A) Vaporization and condensation
+What are the steps to convert Hexahydric alcohol (Sorbitol) to Span?
+A) Esterification then Dehydration 
 B) Precipitation and dissolution
-C) Ionization and complexation
-D) Adsorption and desorption
+C) Dehydration then Esterification 
+D) Dehydration then addition of ethylene oxide
 Answer: B
 
 ### Question 7
@@ -55,28 +47,18 @@ C) The solute concentration is greater than the capacity and thermodynamically u
 D) The solute concentration is zero because the solute is completely insoluble
 Answer: C
 
-### Question 8
-What does the concentration expression % w/w (Weight in Weight) represent?
-A) Number of grams of solute in 100 mL of solvent
-B) Number of grams of solute in 100 grams of solution
-C) Number of milliliters of solute in 100 grams of solvent
-D) Number of equivalents of solute in 100 grams of solution
-Answer: B
-
 ### Question 9
-When calculating the % w/v (Weight in Volume) of a pharmaceutical preparation, which of the following parameters is used?
-A) Grams of solute in 1,000 milliliters of solvent
-B) Grams of solute in 100 grams of solution
-C) Grams of solute in 100 milliliters of solution
-D) Milliliters of solute in 100 milliliters of solution
-Answer: C
+The oldest application of solubilization is the solubilization of cresol in soap for disinfection (Lysol).
+A) True
+B) False
+Answer: A
 
 ### Question 10
 Which definition matches the percentage concentration expression % v/v?
 A) Number of grams of solute in 100 mL of solution
 B) Number of milliliters of solute in 100 grams of solution
 C) Number of milliliters of solute in 100 mL of solution
-D) Number of milliliters of solute in 100 mL of pure solvent
+D) Number of milliliters of solute in 100 mL of solvent
 Answer: C
 
 ### Question 11
@@ -96,11 +78,11 @@ D) Molality
 Answer: B
 
 ### Question 13
-How is Molarity (M) defined?
-A) Moles of solute per kilogram of solvent
-B) Moles of solute per liter of solution
-C) Equivalents of solute per liter of solution
-D) Moles of solute per total moles of the system
+Adsorption is marked in which of the following?
+A) Concentrated solutions 
+B) Porous and finely divided materials
+C) Simple substances
+D) B and C 
 Answer: B
 
 ### Question 14
@@ -174,14 +156,6 @@ B) Filter the solid residue using a high-pressure membrane
 C) Add an excess of the drug to the solvent
 D) Measure the exact density of the pure solvent using a pycnometer
 Answer: C
-
-### Question 23
-During the agitation phase of determining equilibrium solubility, why must the temperature be kept constant?
-A) To prevent the chemical decomposition of the solvent molecules
-B) Because solubility varies with temperature, affecting the equilibrium state
-C) To maintain a low viscosity for rapid gravity filtration
-D) To avoid establishing an equilibrium between precipitation and dissolution
-Answer: B
 
 ### Question 24
 What is analyzed in the final step of the determination methodology for equilibrium solubility?
@@ -311,16 +285,8 @@ C) High temperatures cause the liquid to crystallize and block the container
 D) The drug undergoes a chemical reaction that increases its solubility
 Answer: A
 
-### Question 40
-What is meant by the term "Salting Out" in the context of gas solubility?
-A) Increasing gas solubility by adding volatile organic liquids
-B) Reducing gas solubility through the addition of electrolytes or non-electrolytes
-C) Precipitating solid salts from a solution by bubbling inert gases through it
-D) Neutralizing an acidic gas with a metallic hydroxide solution
-Answer: B
-
 ### Question 41
-What is the molecular mechanism behind the "Salting Out" of a gas from an aqueous solution?
+What is the mechanism of salting out of a gas from an aqueous solution?
 A) Salt ions break the covalent bonds of the dissolved gas molecules
 B) Salt ions attract water molecules strongly, crowding out the gas and dropping its solubility
 C) Salt ions lower the temperature of the solution, causing gas expansion
@@ -406,14 +372,6 @@ B) No Critical Solution Temperature
 C) Lower Critical Solution Temperature
 D) Upper Critical Solution Temperature
 Answer: D
-
-### Question 52
-What characteristic defines a Lower Critical Solution Temperature (LCST) system?
-A) The components are miscible only above this temperature limit
-B) The components are miscible only below this temperature limit
-C) The components form a closed loop on a triangular phase diagram
-D) The components never fully mix at any laboratory temperature
-Answer: B
 
 ### Question 53
 Which system is a classic example of a liquid pair showing a Lower Critical Solution Temperature (LCST)?
@@ -528,12 +486,12 @@ D) pH change
 Answer: A
 
 ### Question 67
-What balances define the overall solubility equation for a solute-solvent system?
-A) The ratio of the boiling point elevation to the freezing point depression
-B) The energy required to break existing bonds versus the energy released by new solute-solvent interactions
-C) The absolute mass of the solvent divided by the volume-dependent molarity
-D) The rate of mechanical shear divided by the yield value threshold
-Answer: B
+Which of the following is true about equilibrium competing forces of solubility?
+A) The energy required to break bonds - The energy released by interaction 
+B) The rate of mechanical shear divided by the yield value threshold
+C) (Solute-Solute Forces + Solvent-Solvent Forces) - (Solute-Solvent Interaction)
+D) A and C
+Answer: D
 
 ### Question 68
 How does the introduction of a hydrophilic polar group like -OH affect a solute's water solubility?
@@ -552,12 +510,16 @@ D) Water solubility remains perfectly constant regardless of chain extension
 Answer: B
 
 ### Question 70
-When comparing the solubility of n-butyl alcohol and tertiary butyl alcohol in water, the tertiary isomer exhibits higher solubility. What is the fundamental structural reason for this observation?
-A) The tertiary structure increases the lattice energy, making it easier to break
-B) The straight chain allows for more efficient hydrogen bonding with water
-C) Branching reduces the non-polar aliphatic surface area, decreasing the hydrophobic effect
-D) The branched chain increases the non-polar surface area exposure to water
-Answer: C
+Which of the following is true about the direct and indirect antibacterial activity of surfactants?
+A) Direct: Reducing interfacial tension to assist other drugs.
+   Indirect: Causing cellular lysis.
+B) Direct: Increasing cell membrane permeability (cell lysis).
+   Indirect: Reducing interfacial tension to help other antibacterials penetrate.
+C) Direct: Precipitating the bacterial cell wall
+   Indirect: Forming stable zwitterionic micelles.
+D) Direct: Inhibiting bacterial protein synthesis
+   Indirect: Altering the dielectric constant of the medium.
+Answer: B
 
 ### Question 71
 What is the pharmaceutical advantage of converting a weak acid drug into its sodium salt?
@@ -664,12 +626,10 @@ D) They are forced into a crystalline state within a stagnant liquid film
 Answer: B
 
 ### Question 84
-What happens to the mutual solubility of a binary liquid system (A+B) if an added foreign substance is highly soluble in both liquids?
-A) Mutual solubility decreases, resulting in immediate phase separation
-B) Mutual solubility increases, with the substance acting as a blending agent
-C) The binodal curve expands to fill the entire triangular phase diagram
-D) The system transforms into a dilatant fluid that solidifies upon mixing
-Answer: B
+A solution containing a non-volatile solute always has a lower vapor pressure than the pure solvent. 
+A) True
+B) False
+Answer: A
 
 ### Question 85
 In a ternary system, what is the effect of adding a third component that is soluble in only ONE of the two partially miscible liquids?
@@ -720,7 +680,7 @@ D) Solid / solid
 Answer: B
 
 ### Question 91
-Interfacial phenomena are pharmacologically significant because they directly affect which biological or physical process?
+What is the pharmacological effect of interfacial phenomena?
 A) The calibration of single-point Ostwald viscometers
 B) The penetration of molecules through biologic membranes
 C) The calculation of Avogadro's number in true solutions
@@ -749,7 +709,7 @@ A) Because adhesive forces between two liquids are greater than adhesive forces 
 B) Because liquid-gas systems have a higher dielectric constant than liquid-liquid systems
 C) Because the thickness of the stagnant layer drops to zero in an emulsion
 D) Because surfactants cannot undergo positive adsorption at a liquid-liquid interface
-Answer: B
+Answer: A
 
 ### Question 95
 If two liquids are completely miscible in all proportions, what is the resulting interfacial tension?
@@ -944,12 +904,12 @@ D) Close-packed dilatant crystalline networks
 Answer: B
 
 ### Question 119
-Where are non-polar solubilizates located when incorporated into a surfactant micelle?
-A) Adsorbed onto the hydrophilic outer heads
-B) Inside the lipophilic core of the micelle
-C) In the polyoxyethylene shell layers
-D) Dissolved in the external stagnant liquid film
-Answer: B
+What type of surfactant belongs to this formual $R-O-(CH_{2}CH_{2}O)_{n}H$?
+A) Ester Linked
+B) Zwitterionic
+C) Ester-Ether Linked
+D) Ether Linked
+Answer: D
 
 ### Question 120
 What is the primary function of a wetting agent in pharmaceutical processing?
@@ -1008,7 +968,7 @@ D) It acts as a surfactant to decrease the contact angle of mucosal tissue
 Answer: B
 
 ### Question 127
-Which of the following statements best describes the relationship between the Partition Coefficient (Log P) and a drug’s movement from the GIT fluids to the blood?
+Which of the following best describes Partition Coefficient (Log P)
 A) The Log P value determines the drug’s ability to cross the lipid GIT membrane
 B) Log P must be as low as possible to ensure the drug stays in the aqueous GIT environment
 C) Log P is irrelevant once the drug has reached the surface of the lipid-bilayer membrane
@@ -1032,7 +992,7 @@ D) The concentration gradient
 Answer: D
 
 ### Question 130
-In Fick's First Law equation, J = D*(C1 - C2)/h, what does the variable 'h' represent?
+In Fick's First Law equation, $J = \frac{D \cdot (C_1 - C_2)}{h}$, what does the variable 'h' represent?
 A) The absolute viscosity of the fluid channel
 B) The membrane or barrier thickness
 C) The surface area of the migrating drug particles
@@ -1056,7 +1016,7 @@ D) The algebraic mean HLB equation
 Answer: B
 
 ### Question 133
-In the dissolution expression dM/dt = KS(Cs - C), what does Cs represent?
+In the dissolution expression $dM/dt = \frac{D \cdot S \cdot (C_s - C)}{h}$, what does Cs represent?
 A) The concentration of the drug in the well-stirred bulk solution
 B) The solubility limit of the solute in the stagnant layer micro-environment
 C) The surface area available for mass transfer optimization
@@ -1064,7 +1024,7 @@ D) The absolute kinematic viscosity of the vehicle
 Answer: B
 
 ### Question 134
-When performing a dissolution test, a technician increases the stirring speed (agitation). What is the primary physical effect?
+What is the primary physical effect of stirring (agitation)?
 A) Decrease in the Diffusion Coefficient (D)
 B) Increase in the drug's saturation solubility (Cs)
 C) Decrease in the thickness of the stagnant layer (h)
@@ -1098,7 +1058,7 @@ Answer: B
 ### Question 138
 How is the boiling point of a liquid defined physically?
 A) The temperature where the chemical reaction with the container begins
-B) The exact temperature at which the vapor pressure equals atmospheric pressure
+B) The temperature at which the vapor pressure equals atmospheric pressure
 C) The thermal threshold where the N-value of the fluid equals 1.0
 D) The point where the concentration exceeds the saturation capacity
 Answer: B
@@ -1253,7 +1213,7 @@ A) Particles move from close-packed to an open-packed state, causing the vehicle
 B) Particles form a single homogeneous layer that undergoes positive adsorption
 C) Polymer chains uncoil completely and wrap around water molecules
 D) The dielectric constant drops to zero, forcing instant crystallization
-Answer: B
+Answer: A
 
 ### Question 158
 Why should dilatant pharmaceutical materials never be processed in high-speed mixers or mills?
@@ -1343,14 +1303,6 @@ C) A fluid that obeys Newton's law of flow passing directly through the origin
 D) A process where negative adsorption forces all electrolytes into the bulk
 Answer: B
 
-### Question 169
-In the study of solid dosage forms, rheology dictates success by directly influencing:
-A) The chemical ionization of crystalline weak electrolytes
-B) The flow of powders from hoppers into tablet die cavities during manufacturing
-C) The positive adsorption of surfactants onto micellar polyoxyethylene shells
-D) The osmotic pressure elevation of cell membranes
-Answer: B
-
 ### Question 170
 Why is strict temperature control a safety imperative when storing ethyl nitrite solutions in hot climates?
 A) Heat causes immediate irreversible precipitation of the active ingredient
@@ -1366,7 +1318,7 @@ B) False
 Answer: A
 
 ### Question 172
-An unsaturated solution contains solute at a concentration that matches the solvent's maximum capacity.
+Sodium is used in metallic soaps
 A) True
 B) False
 Answer: B
@@ -1378,7 +1330,7 @@ B) False
 Answer: B
 
 ### Question 174
-Molality is a mass-dependent property that remains independent of temperature fluctuations.
+Non-Polar Solvents can dissolve excipients.
 A) True
 B) False
 Answer: A
@@ -1402,9 +1354,11 @@ B) False
 Answer: B
 
 ### Question 178
-A hydro-alcoholic solution is formed by mixing volatile oils with water.
-A) True
-B) False
+At what flow the system expands in volume when sheared?
+A) Pseudoplastic 
+B) Plastic 
+C) Dilatant 
+D) Newtonian
 Answer: B
 
 ### Question 179
@@ -1414,10 +1368,12 @@ B) False
 Answer: B
 
 ### Question 180
-Polar solvents like water dissolve salts and sugars primarily via mechanisms like high dielectric insulation and hydrogen bonding.
-A) True
-B) False
-Answer: A
+Which of the following statements regarding the physical adsorption is not correct?
+A) Reversible
+B) Specific 
+C) Increased at low temperature
+D) All options are true
+Answer: B
 
 ### Question 181
 Non-polar solvents have low dielectric constants and dissolve fats or oils via weak van der Waals-London forces.
@@ -1450,9 +1406,11 @@ B) False
 Answer: A
 
 ### Question 186
-When mapping a ternary system on a triangular graph, each corner of the triangle represents a 50/50 mix of two components.
-A) True
-B) False
+Temperature is ................. with amount of adsorbed solute
+A) Directly proportional
+B) Inversely proportional
+C) Insignificant effect
+D) None of these
 Answer: B
 
 ### Question 187
@@ -1460,12 +1418,6 @@ An interface is specifically termed a "surface" when one of the coexisting phase
 A) True
 B) False
 Answer: A
-
-### Question 188
-Interfacial tension is usually greater than surface tension because liquid-liquid adhesive forces are extremely weak compared to liquid-gas forces.
-A) True
-B) False
-Answer: B
 
 ### Question 189
 Surfactants with a low HLB value (1.8 to 8.6) are hydrophilic and are preferred for making O/W emulsions.
@@ -1492,10 +1444,12 @@ B) False
 Answer: B
 
 ### Question 193
-Colligative properties depend entirely on the total number of solute particles in solution, ignoring their specific chemical identity.
-A) True
-B) False
-Answer: A
+What is the two mechanisms for semi-polar solvents?
+A) Hydrogen Bonding / Inducing Polarity
+B) Inducing Polarity / Cosolvency
+C) High Dielectric Constant / Dipole Interaction Forces
+D) High Dielectric Constant / Hydrogen Bonding
+Answer: B
 
 ### Question 194
 A Newtonian fluid exhibits a variable viscosity that changes unpredictably depending on the rate of shear applied.
@@ -1526,12 +1480,12 @@ D) 9.81 x 10^2
 Answer: B
 
 ### Question 198
-What constitutes the denominator in the mathematical expression for Mole Fraction (X)?
-A) Moles of solvent minus moles of solute
-B) Moles of solute plus moles of solvent
-C) Total liters of the solution phase
-D) Total kilograms of the pure solvent
-Answer: B
+Which of the following increases adsorption?
+A) Increasing surface Tension
+B) Decreasing solubility
+C) Increasing the concentration of the solution
+D) A and C
+Answer: A
 
 ### Question 199
 During the determination of equilibrium solubility, why is the specific step of adding "excess drug" required?
@@ -1542,11 +1496,11 @@ D) To prevent the solvent from expanding and shattering the container
 Answer: B
 
 ### Question 200
-In the agitation step of solubility determination, why is maintaining a constant temperature strictly required?
-A) To alter the N-value of the fluid to 1.0
-B) Because variations in temperature will shift the equilibrium between precipitation and dissolution
-C) To force an endothermic reaction to become exothermic
-D) Because a constant temperature destroys all surfactant micelles
+Which of the following represents the steps of "Determination Methodology of Solubility"?
+A) Agitation / Preparation of saturated solution / Analysis  
+B) Analysis / Preparation of saturated solution / Agitation 
+C) Preparation of saturated solution / Agitation / Analysis
+D) Preparation of saturated solution / Analysis / Agitation  
 Answer: B
 
 ### Question 201
@@ -1598,28 +1552,20 @@ D) Amorphous precipitate
 Answer: B
 
 ### Question 207
-What exact physical consequence occurs during the salting-out of a gas when an electrolyte like Sodium Chloride is added?
-A) The salt ions bond directly to the gas molecules, creating a precipitate
-B) The salt ions strongly attract water molecules, reducing the density of the aqueous environment available for the gas
-C) The salt drops the temperature to absolute zero, solidifying the gas
-D) The electrolyte forces the fluid into a state of dilatant flow
-Answer: B
-
-### Question 208
-When viewing a phase diagram for a partial miscibility system, what defines the visual characteristics of the two-phase region beneath the Binodal Curve?
-A) A single, perfectly clear homogeneous layer
-B) Separation into cloudy, immiscible layers
-C) A completely solid crystalline structure
-D) A continuous sol-to-gel transformation loop
-Answer: B
+Which of the following is found in the micelle core?
+A) Vitamins (A, D, E, K)
+B) Glycosides
+C) Hormonal steroids
+D) All answers are true
+Answer: D
 
 ### Question 209
-Which specific electronegative elements act as 'handles' that allow water to dissolve non-ionic organic compounds via hydrogen bonding?
-A) Carbon and Hydrogen
-B) Oxygen or Nitrogen
-C) Sodium and Potassium
-D) Chlorine and Bromine
-Answer: B
+What is the CPP value of micelles when placed in a non-aqueous oil medium?
+A) CPP < 0.33
+B) CPP between 0.33 and 0.5
+C) CPP between 0.5 and 1.0
+D) CPP > 1.0
+Answer: D
 
 ### Question 210
 Which of the following organic functional groups is specifically targeted by polar solvents through hydrogen bonding mechanisms?
@@ -1662,7 +1608,7 @@ D) It transforms into an amorphous polymer
 Answer: B
 
 ### Question 215
-Sodium Sulfate (Na2SO4) dissolution is an exothermic process. What happens to its solubility as the temperature of the system is artificially raised?
+What happens to Sodium Sulfate (Na2SO4) dissolution as the temperature of the system is artificially raised?
 A) Its solubility remains completely constant
 B) Its solubility drops because heat is released during the process
 C) Its solubility climbs until it surpasses the binodal curve
@@ -1710,28 +1656,26 @@ D) A negative heat of adsorption
 Answer: B
 
 ### Question 221
-A pharmaceutical powder mixture represents which specific type of physical interface?
-A) Liquid / Gas
-B) Solid / Solid
-C) Gas / Solid
-D) Liquid / Liquid
+Sodium dodecyl sulfate is used as detergent in shampoos & Cosmetics
+A) True
+B) False
 Answer: B
 
 ### Question 222
-A suspension formulation physically demonstrates the existence of which specific phase boundary?
-A) Gas / Liquid
-B) Liquid / Solid
-C) Solid / Solid
-D) Liquid / Liquid
+All of the following are applications of adsorption except
+A) Volatile Oil Fixation
+B) Detergency 
+C) Particle Size Measurement
+D) Wetting Agents
 Answer: B
 
 ### Question 223
-A solid drug tablet exposed to the ambient atmosphere illustrates which type of interfacial boundary?
-A) Gas / Solid
-B) Liquid / Solid
-C) Gas / Liquid
-D) Liquid / Liquid
-Answer: A
+Which of the following are units of measurement for surface tension?
+A) mN / m
+B) Dyne / cm
+C) Da (Daltons)
+D) A and B
+Answer: D
 
 ### Question 224
 Which specific scientific unit is used to express surface tension?
@@ -1774,7 +1718,7 @@ D) HLB = S - A
 Answer: B
 
 ### Question 229
-For polyhydric alcohol fatty acid esters like glyceryl monostearate, the HLB formula is 20 * [1 - (S/A)]. What does the 'S' value define?
+For polyhydric alcohol fatty acid esters like glyceryl monostearate, the HLB formula is $20 \left[ 1 - \frac{S}{A} \right]$. What does the 'S' value define?
 A) The acid number of the fatty acid
 B) The saponification number of the ester
 C) The absolute surface tension in dynes/cm
@@ -1782,12 +1726,10 @@ D) The solid-state lattice energy
 Answer: B
 
 ### Question 230
-When calculating the proportions of mixed emulsifiers using the formula A = 100(X - HLB_B) / (HLB_A - HLB_B), what does the variable 'X' specifically denote?
-A) The molecular weight of the surfactant
-B) The target Total Required HLB for the oil phase
-C) The kinematic viscosity of the final emulsion
-D) The percentage of the continuous water phase
-Answer: B
+Mixture of surfactants give more stable emulsions than when used singly.
+A) True
+B) False
+Answer: A
 
 ### Question 231
 What is the general chemical formula representing traditional metallic or alkali soaps?
@@ -1862,17 +1804,17 @@ D) Benzalkonium chloride
 Answer: B
 
 ### Question 240
-During micellization, water-insoluble compounds containing polar groups are typically oriented in which solubilization site?
-A) Site 1 (Deep lipophilic core)
-B) Site 2/3 (Oriented region)
-C) Site 4 (Outer polyoxyethylene shell)
-D) Entirely outside the micelle in the stagnant layer
+Which surfactants have bactericidal activity?
+A) Anionic 
+B) Amphoteric (Zwitterionic)
+C) Cationic 
+D) Non-Ionic
 Answer: B
 
 ### Question 241
 What is the recommended HLB range for a surfactant intended to function primarily as an antifoaming agent during manufacturing?
 A) 1.8 to 8.6
-B) Approximately 13
+B) 1-3
 C) 6 to 9
 D) 15 to 16.7
 Answer: B
@@ -1973,14 +1915,6 @@ C) The yield value barrier
 D) The binodal curve peak
 Answer: B
 
-### Question 254
-What mathematical variable explicitly designates the threshold 'Yield Value' in the plastic flow equation?
-A) U
-B) f
-C) G
-D) N
-Answer: B
-
 ### Question 255
 What molecular interaction strictly forms the yield barrier that must be shattered to initiate flow in a plastic Bingham body?
 A) Uncoiled polymer strands entangling the mixing blade
@@ -1990,17 +1924,17 @@ D) Primary covalent bonds formed via irreversible adsorption
 Answer: B
 
 ### Question 256
-In an Ostwald capillary viscometer, the mathematical ratio of fluid viscosities relies on measuring what parameter driven by gravity?
-A) The torque required to turn a submerged metal bob
-B) The exact vertical flow time between two fixed marks
-C) The volume of voids generated during shear-thickening
-D) The weight of a droplet falling from a specialized tip
+The most apparent characteristic of the thixotropic system is observed on ascending and descending rheogram.
+A) Yield value
+B) Bingham circle
+C) Newton trace
+D) Hysteresis loop
 Answer: B
 
 ### Question 257
-How does a thixotropic material specifically behave when its hysteresis loop is plotted on a rheogram?
+Which of the following is true about thixotropy rheogram?
 A) The downcurve perfectly overlays the upcurve, indicating rapid elastic bounce
-B) The material exhibits lower consistency on the downcurve, which is displaced to the left of the upcurve
+B) The material exhibits lower consistency at any single rate of shear on the downcurve than the upcurve
 C) The downcurve shifts far to the right, showing massive shear-thickening
 D) The line remains perfectly straight and passes through the exact origin
 Answer: B
@@ -2014,10 +1948,12 @@ D) Liquid -> Gas -> Liquid
 Answer: B
 
 ### Question 259
-Solubility is defined as the concentration of solute in a saturated solution at a specific temperature.
-A) True
-B) False
-Answer: A
+Which of the following describes a composition of a 2.5% w/v formulation.  
+A) 2.5 milligrams of solute in every 100 mL of solution
+B) 2.5 grams of solute dissolved in 100 grams of solvent
+C) 2.5 grams of solute dissolved in 100 mL of solution
+D) 25 grams of solute dissolved in 1 Liter of pure solvent
+Answer: C
 
 ### Question 260
 An unsaturated solution contains solute at a concentration that matches the solvent's maximum capacity.
@@ -2056,13 +1992,13 @@ B) False
 Answer: B
 
 ### Question 266
-A hydro-alcoholic solution is formed by mixing volatile oils with water.
+Non-polar groups act as better barriers, allowing the disperse phase to exceed >50%.
 A) True
 B) False
 Answer: B
 
 ### Question 267
-An Upper Critical Solution Temperature (UCST) system forms a single clear phase only below its temperature limit.
+Chromatography is separation technique relying on the difference in affinity of an adsorbate for various solutes.
 A) True
 B) False
 Answer: B
@@ -2092,11 +2028,12 @@ B) False
 Answer: B
 
 ### Question 272
-A weak acid drug becomes more soluble in an aqueous environment when the pH is lowered into the highly acidic range.
-A) True
-B) False
-Answer: B
-
+Which of the following solvents will provide the highest extraction efficiency?
+A) P value of 0.5
+B) P value of 1.0
+C) P value of 12.5
+D) Co (Concentration in Oil Phase) = 46 / Cw (Concentration in Water Phase) = 12
+Answer: C
 ### Question 273
 The common ion effect causes a shift in chemical equilibrium that promotes the precipitation of sparingly soluble salts.
 A) True
@@ -2127,14 +2064,8 @@ A) True
 B) False
 Answer: B
 
-### Question 278
-Anionic surfactants ionize in water to produce a surface-active portion located within the cation.
-A) True
-B) False
-Answer: B
-
 ### Question 279
-Chemical adsorption (chemisorption) involves primary chemical bonds, is highly irreversible, and forms a maximum of a monolayer.
+Chemical adsorption (chemisorption) rate decreases with an increase in adsorbate pressure.
 A) True
 B) False
 Answer: A
@@ -2157,23 +2088,11 @@ A) True
 B) False
 Answer: B
 
-### Question 283
-Thixotropy describes a slow, time-dependent structural recovery of consistency when a material is left standing after shear disruption.
-A) True
-B) False
-Answer: A
-
 ### Question 284
 The molecular weight (MW) of a compound is defined as the sum of atomic weights and is formally expressed in equivalent weights per liter of solution.
 A) True
 B) False
 Answer: B
-
-### Question 285
-A saturated solution represents a dynamic thermodynamic equilibrium where the rate of precipitation precisely equals the rate of dissolution.
-A) True
-B) False
-Answer: A
 
 ### Question 286
 According to the principles of salting out, adding a non-electrolyte like sucrose to an aqueous vehicle will directly increase the solubility of dissolved gases.
@@ -2188,10 +2107,12 @@ B) False
 Answer: B
 
 ### Question 288
-Branching within an aliphatic organic compound typically decreases its water solubility by exposing a larger non-polar surface area to the polar solvent.
-A) True
-B) False
-Answer: B
+The degree of gas adsorption by a solid depends on all of the following except 
+A) Chemical nature of the adsorbent and adsorbate
+B) Surface area
+C) pH
+D) Temperature
+Answer: C
 
 ### Question 289
 The functional boundary dividing two immiscible liquid phases in an emulsion is scientifically termed an interface.
@@ -2218,7 +2139,7 @@ B) False
 Answer: B
 
 ### Question 293
-Silica gel functions as a highly effective pharmaceutical desiccant by physically adsorbing moisture onto its internal surfaces.
+Silica gel functions as a highly effective pharmaceutical desiccant by physically adsorbing moisture.
 A) True
 B) False
 Answer: A
@@ -2264,5 +2185,118 @@ Concentrated flocculated suspensions serve as classic pharmaceutical examples of
 A) True
 B) False
 Answer: B
+
+### Question 1
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+What type of flow does Line (a) represent?
+A) Newtonian
+B) Plastic
+C) Pseudoplastic
+D) Dilatant
+Answer: D
+
+### Question 2
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+What type of flow does Line (b) represent?
+A) Newtonian
+B) Plastic
+C) Pseudoplastic
+D) Dilatant
+Answer: A
+
+### Question 3
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+What type of flow does Line (c) represent?
+A) Newtonian
+B) Plastic
+C) Pseudoplastic
+D) Dilatant
+Answer: C
+
+### Question 4
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+What type of flow does Line (d) represent?
+A) Newtonian
+B) Plastic
+C) Pseudoplastic
+D) Dilatant
+Answer: B
+
+### Question 5
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+Which line demonstrates the shear-thinning property?
+A) Line a
+B) Line b
+C) Line c
+D) Line d
+Answer: C
+
+### Question 6
+BUNDLE: CaseStudy1
+IMAGE: diagram_01.png
+Which specific flow profile is characterized by the shear-thickening property?
+A) Newtonian
+B) Plastic
+C) Pseudoplastic
+D) Dilatant
+Answer: D
+
+### Question 7
+BUNDLE: CaseStudy2
+IMAGE: Sites.png
+Which numbered site where non-polar solubilizates are located?
+A) Site 1
+B) Site 2
+C) Site 3
+D) Site 4
+Answer: A
+
+
+
+
+### Question 8
+BUNDLE: CaseStudy2
+IMAGE: Sites.png
+What type of compounds primarily solubilize at sites 2 and 3?
+A) Strictly non-polar compounds
+B) Amphiphilic or slightly soluble compounds
+C) Highly water-soluble salts
+D) Insoluble polymers
+Answer: B
+
+### Question 9
+BUNDLE: CaseStudy2
+IMAGE: Sites.png
+Which numbered site where polyoxyethylene are located?
+A) Site 1
+B) Site 2
+C) Site 3
+D) Site 4
+Answer: D
+
+### Question 8
+BUNDLE: CaseStudy3
+IMAGE: Chem.png
+What is the distinctive characteristic of the number 2?
+A) Weak Van der Waals forces
+B) Strong primary chemical bonds
+C) Repulsive forces preventing further layer formation
+D) The thickness of the stagnant liquid film
+Answer: B
+
+### Question 10
+BUNDLE: CaseStudy3
+IMAGE: Chem.png
+Which one increases in rate with increasing pressure of the adsorbate?
+A) 1
+B) 2
+C) Both 1 and 2
+D) Neither 
+Answer: A
 
 ```
