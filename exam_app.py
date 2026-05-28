@@ -2,6 +2,11 @@ import streamlit as st
 import streamlit.components.v1 as components
 import random
 import os
+import json  # <--- ADD THIS
+import streamlit as st
+import streamlit.components.v1 as components
+import random
+import os
 
 # --- 1. SET UP THE PAGE ---
 st.set_page_config(page_title="Final Exam Simulator", layout="centered")
@@ -232,19 +237,42 @@ if shared_exam:
     else:
         st.error(f"Exam '{shared_exam}' not found. Please check the link.")
         st.stop()
+    uploaded_save = None # Hide uploader in shared mode to keep UI clean
 else:
     st.sidebar.title("Exam Settings")
     selected_file = st.sidebar.selectbox("📚 Select Subject:", txt_files)
+    
+    # Add the Checkpoint Uploader
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("### 💾 Resume Progress")
+    uploaded_save = st.sidebar.file_uploader("Upload a previous save (.json)", type=['json'])
+
 # --- 6. MANAGE THE EXAM STATE & SHUFFLE ---
-if 'current_file' not in st.session_state or st.session_state.current_file != selected_file:
+if uploaded_save is not None and not st.session_state.get('loaded_save'):
+    # --- RESTORE FROM CHECKPOINT ---
+    save_data = json.load(uploaded_save)
+    st.session_state.exam_data = save_data['exam_data']
+    
+    # JSON converts dictionary keys to strings. We MUST cast them back to integers!
+    st.session_state.user_answers = {int(k): v for k, v in save_data['user_answers'].items()}
+    st.session_state.current_index = save_data['current_index']
+    
+    st.session_state.exam_finished = False
+    st.session_state.loaded_save = True
+    st.session_state.current_file = "loaded_from_save" 
+    components.html("<script>sessionStorage.removeItem('examTimer'); sessionStorage.removeItem('examPaused');</script>", height=0)
+    st.rerun()
+
+elif 'current_file' not in st.session_state or (st.session_state.current_file != selected_file and not st.session_state.get('loaded_save')):
+    # --- START A FRESH EXAM ---
     st.session_state.current_file = selected_file
+    st.session_state.loaded_save = False
     raw_data = load_curriculum(selected_file)
     
     if raw_data:
         grouped_data = {}
         single_questions = []
         
-        # 1. Sort questions into bundles or single items
         for q in raw_data:
             if q.get('bundle'):
                 b_id = q['bundle']
@@ -252,15 +280,10 @@ if 'current_file' not in st.session_state or st.session_state.current_file != se
                     grouped_data[b_id] = []
                 grouped_data[b_id].append(q)
             else:
-                single_questions.append([q]) # Store single questions as lists of 1
+                single_questions.append([q])
                 
-        # 2. Combine bundles and single questions into a list of blocks
         all_blocks = list(grouped_data.values()) + single_questions
-        
-        # 3. Shuffle the blocks
         random.shuffle(all_blocks)
-        
-        # 4. Flatten the blocks back into a single 1D list
         final_exam_data = [q for block in all_blocks for q in block]
     else:
         final_exam_data = []
@@ -271,7 +294,6 @@ if 'current_file' not in st.session_state or st.session_state.current_file != se
     st.session_state.exam_finished = False
     components.html("<script>sessionStorage.removeItem('examTimer'); sessionStorage.removeItem('examPaused');</script>", height=0)
 
-# Initialize finished state if not present
 if 'exam_finished' not in st.session_state:
     st.session_state.exam_finished = False
 
@@ -317,7 +339,7 @@ else:
     incorrect_count = len(st.session_state.user_answers) - correct_count
     remaining = len(st.session_state.exam_data) - len(st.session_state.user_answers)
 
-    # === THE STICKY TOOLBELT ===
+# === THE STICKY TOOLBELT ===
     toolbelt = st.container()
     with toolbelt:
         st.markdown(f"""
@@ -328,6 +350,21 @@ else:
         </div>
         """, unsafe_allow_html=True)
         render_timer()
+        
+        # --- NEW ADDITION: SAVE PROGRESS BUTTON ---
+        save_dict = {
+            'exam_data': st.session_state.exam_data,
+            'user_answers': st.session_state.user_answers,
+            'current_index': st.session_state.current_index
+        }
+        save_json = json.dumps(save_dict)
+        st.download_button(
+            label="💾 Download Checkpoint (Save Progress)", 
+            data=save_json, 
+            file_name="pharmacy_exam_save.json", 
+            mime="application/json", 
+            use_container_width=True
+        )
    
         
     # === THE SLIDER (Moved outside the toolbelt so it scrolls away!) ===
