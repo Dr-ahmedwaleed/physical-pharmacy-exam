@@ -93,7 +93,7 @@ st.markdown("""
         min-width: 50% !important;
     }
     
-    /* STICKY TOOLBELT & HIDE STREAMLIT/GITHUB UI COMPLETELY */
+    /* STICKY TOOLBELT & HIDE STREAMLIT/GITHUB UI */
     header[data-testid="stHeader"] {
         background-color: transparent !important;
     }
@@ -105,11 +105,6 @@ st.markdown("""
     }
     footer {
         display: none !important; 
-    }
-    
-    /* THE AVATAR KILLER: Hides the floating creator profile badge */
-    [data-testid="stAppCreatorProfile"], [data-testid="creatorBadge"] {
-        display: none !important;
     }
     
     .block-container {
@@ -199,13 +194,19 @@ def load_curriculum(filepath):
                 if current_q:
                     current_q['options'] = options
                     questions.append(current_q)
-                current_q = {'question': '', 'answer': ''}
+                # Added 'bundle' to the dictionary
+                current_q = {'question': '', 'answer': '', 'image': None, 'bundle': None}
                 options = []
+            elif line.startswith("IMAGE:"):
+                current_q['image'] = line.split("IMAGE:")[1].strip()
+            elif line.startswith("BUNDLE:"):
+                # Extract the bundle identifier
+                current_q['bundle'] = line.split("BUNDLE:")[1].strip()
             elif line.startswith("A)") or line.startswith("B)") or line.startswith("C)") or line.startswith("D)"):
                 options.append(line)
             elif line.startswith("Answer:"):
                 current_q['answer'] = line.split("Answer:")[1].strip()
-            elif current_q is not None and not current_q['question']:
+            elif current_q is not None and not current_q['question'] and not line.startswith("IMAGE:") and not line.startswith("BUNDLE:"):
                 current_q['question'] = line.replace('### ', '')
                 
         if current_q:
@@ -234,17 +235,40 @@ if shared_exam:
 else:
     st.sidebar.title("Exam Settings")
     selected_file = st.sidebar.selectbox("📚 Select Subject:", txt_files)
-
 # --- 6. MANAGE THE EXAM STATE & SHUFFLE ---
 if 'current_file' not in st.session_state or st.session_state.current_file != selected_file:
     st.session_state.current_file = selected_file
     raw_data = load_curriculum(selected_file)
+    
     if raw_data:
-        random.shuffle(raw_data)
-    st.session_state.exam_data = raw_data
+        grouped_data = {}
+        single_questions = []
+        
+        # 1. Sort questions into bundles or single items
+        for q in raw_data:
+            if q.get('bundle'):
+                b_id = q['bundle']
+                if b_id not in grouped_data:
+                    grouped_data[b_id] = []
+                grouped_data[b_id].append(q)
+            else:
+                single_questions.append([q]) # Store single questions as lists of 1
+                
+        # 2. Combine bundles and single questions into a list of blocks
+        all_blocks = list(grouped_data.values()) + single_questions
+        
+        # 3. Shuffle the blocks
+        random.shuffle(all_blocks)
+        
+        # 4. Flatten the blocks back into a single 1D list
+        final_exam_data = [q for block in all_blocks for q in block]
+    else:
+        final_exam_data = []
+
+    st.session_state.exam_data = final_exam_data
     st.session_state.user_answers = {} 
     st.session_state.current_index = 0
-    st.session_state.exam_finished = False 
+    st.session_state.exam_finished = False
     components.html("<script>sessionStorage.removeItem('examTimer'); sessionStorage.removeItem('examPaused');</script>", height=0)
 
 # Initialize finished state if not present
@@ -259,7 +283,7 @@ if not st.session_state.exam_data:
     st.warning("No questions loaded. Please check your text formatting.")
 elif st.session_state.exam_finished:
     # --- 8. THE RESULTS DASHBOARD ---
-    st.container() 
+    st.container() # Dummy container to safely absorb the "sticky" CSS rule
     
     correct_count = sum(1 for idx, ans in st.session_state.user_answers.items() if ans.startswith(st.session_state.exam_data[idx]['answer']))
     incorrect_count = len(st.session_state.user_answers) - correct_count
@@ -267,7 +291,7 @@ elif st.session_state.exam_finished:
     unanswered_count = total_q - (correct_count + incorrect_count)
     percentage = (correct_count / total_q) * 100 if total_q > 0 else 0
     
-    color = "#28a745" if percentage >= 60 else "#dc3545" 
+    color = "#28a745" if percentage >= 60 else "#dc3545" # Green if passed, red if failed
     
     st.markdown(f"""
     <div style='text-align: center; padding: 30px 20px; background-color: #1e1e1e; border-radius: 12px; border: 1px solid #333; margin-top: 20px; margin-bottom: 30px;'>
@@ -304,8 +328,9 @@ else:
         </div>
         """, unsafe_allow_html=True)
         render_timer()
+   
         
-    # === THE SLIDER ===
+    # === THE SLIDER (Moved outside the toolbelt so it scrolls away!) ===
     current_q_num = st.session_state.current_index + 1
     new_q_num = st.slider("Navigate Questions", min_value=1, max_value=len(st.session_state.exam_data), value=current_q_num, label_visibility="collapsed")
     
@@ -313,10 +338,20 @@ else:
         st.session_state.current_index = new_q_num - 1
         st.rerun()
 
-    # === THE QUESTION FRAME ===
+# === THE QUESTION FRAME ===
     q_data = st.session_state.exam_data[st.session_state.current_index]
     
     st.markdown(f"#### {st.session_state.current_index + 1}. {q_data['question']}")
+    
+    # Check if there is an image and render it
+    if q_data.get('image'):
+        try:
+            # Use columns to create invisible bumpers, shrinking and centering the image
+            spacer_left, img_col, spacer_right = st.columns([1, 2, 1])
+            with img_col:
+                st.image(q_data['image'], use_container_width=True) 
+        except Exception as e:
+            st.error(f"⚠️ Could not load image: {q_data['image']}")
     
     has_answered_current = st.session_state.current_index in st.session_state.user_answers
     
@@ -377,5 +412,6 @@ else:
                 st.session_state.current_index += 1
                 st.rerun()
             else:
+                # Trigger the Results Dashboard instead of wiping the app
                 st.session_state.exam_finished = True
                 st.rerun()
