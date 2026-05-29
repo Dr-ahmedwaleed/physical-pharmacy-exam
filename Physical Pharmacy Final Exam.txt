@@ -1925,7 +1925,7 @@ A) Yield value
 B) Bingham circle
 C) Newton trace
 D) Hysteresis loop
-Answer: B
+Answer: D
 
 ### Question 257
 Which of the following is true about thixotropy rheogram?
