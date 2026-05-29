@@ -510,15 +510,11 @@ D) Water solubility remains perfectly constant regardless of chain extension
 Answer: B
 
 ### Question 70
-Which of the following is true about the direct and indirect antibacterial activity of surfactants?
-A) Direct: Reducing interfacial tension to assist other drugs.
-   Indirect: Causing cellular lysis.
-B) Direct: Increasing cell membrane permeability (cell lysis).
-   Indirect: Reducing interfacial tension to help other antibacterials penetrate.
-C) Direct: Precipitating the bacterial cell wall
-   Indirect: Forming stable zwitterionic micelles.
-D) Direct: Inhibiting bacterial protein synthesis
-   Indirect: Altering the dielectric constant of the medium.
+Which of the following is true about the direct antibacterial activity of surfactants?
+A) Reducing interfacial tension to assist other drugs.
+B) Increasing cell membrane permeability (cell lysis).
+C) Reducing interfacial tension to help other antibacterials penetrate.
+D) Inhibiting bacterial protein synthesis
 Answer: B
 
 ### Question 71
