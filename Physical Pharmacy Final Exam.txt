@@ -511,9 +511,9 @@ Answer: B
 
 ### Question 70
 Which of the following is true about the direct antibacterial activity of surfactants?
-A) Reducing interfacial tension to assist other drugs.
-B) Increasing cell membrane permeability (cell lysis).
-C) Reducing interfacial tension to help other antibacterials penetrate.
+A) Reducing interfacial tension to assist other drugs
+B) Increasing cell membrane permeability (cell lysis)
+C) Reducing interfacial tension to help other antibacterials penetrate
 D) Inhibiting bacterial protein synthesis
 Answer: B
 
